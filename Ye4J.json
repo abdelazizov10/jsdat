@@ -1,1 +1,24 @@
 
+[
+  {
+    "wallpaper_index": "0",
+    "wallpaper_name": "WP",
+    "wallpaper_site_name": "imgur.com",
+    "wallpaper_site_url": "https://imgur.com",
+    "wallpaper_url": "https://images.pexels.com/photos/1591447/pexels-photo-1591447.jpeg"
+  },
+  {
+    "wallpaper_index": "2",
+    "wallpaper_name": "WP2",
+    "wallpaper_site_name": "imgur.com",
+    "wallpaper_site_url": "http://imgur.com",
+    "wallpaper_url": "images.pexels.com/photos/247431/pexels-photo-247431.jpeg"
+  },
+  {
+    "wallpaper_index": "3",
+    "wallpaper_name": "WP3",
+    "wallpaper_site_name": "imgur.com",
+    "wallpaper_site_url": "www.imgur.com",
+    "wallpaper_url": "https://images.pexels.com/photos/145939/pexels-photo-145939.jpeg"
+  }
+]
