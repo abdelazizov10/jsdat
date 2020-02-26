@@ -1,5 +1,11 @@
 [
   {
+  "group_index": "1",
+	"group_name": "Nature",
+	"group_icon":"https://i-h2.pinimg.com/564x/f3/bf/7e/f3bf7e3392ef10d167fa445bf9c4f604.jpg",
+	"wallpapers":
+ [ 
+	{
     "wallpaper_index": "0",
     "wallpaper_name": "WP",
     "wallpaper_site_name": "https://weheartit.com",
@@ -161,4 +167,6 @@
     "wallpaper_site_url": "https://pinimg.com",
     "wallpaper_url": "https://i.pinimg.com/originals/a7/cf/cd/a7cfcd0a5d44ced72dd278aa36b89866.jpg"
   }
+]
+}
 ]
