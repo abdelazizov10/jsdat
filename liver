@@ -1,7 +1,7 @@
 [
   {
   "group_index": "1",
-	"group_name": "Firmino",
+	"group_name": "Collection 1",
 	"group_icon":"https://data.whicdn.com/images/291194427/original.jpg",
 	"wallpapers":
 [ 
@@ -61,7 +61,7 @@
 
   {
   "group_index": "8",
-	"group_name": "Salah",
+	"group_name": "Collection 2",
 	"group_icon":"https://wallpapercave.com/wp/wp2515849.jpg",
 	"wallpapers":
 [
@@ -112,7 +112,7 @@
 
   {
   "group_index": "15",
-	"group_name": "Mani",
+	"group_name": "Collection 3",
 	"group_icon":"https://liverpoolcore.com/wp-content/uploads/2019/08/8398.jpg",
 	"wallpapers":
 	[
@@ -176,10 +176,10 @@
 ]
 },
 
-[
+
   {
   "group_index": "24",
-	"group_name": "Others",
+	"group_name": "Collection 4",
 	"group_icon":"https://wallpapercave.com/wp/wp3055261.jpg",
 	"wallpapers":
 	[
