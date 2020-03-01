@@ -1,3 +1,9 @@
+[
+  {
+  "group_index": "1",
+	"group_name": "Collection 1",
+	"group_icon":"https://data.whicdn.com/images/291194427/original.jpg",
+	"wallpapers":
 [ 
 	{
     "wallpaper_index": "1",
@@ -47,7 +53,16 @@
     "wallpaper_site_name": "wallpaperbro.com",
     "wallpaper_site_url": "https://wallpaperbro.com",
     "wallpaper_url": "https://wallpaperbro.com/img/8351.jpg"
+  }
+]
 },
+
+  {
+  "group_index": "2",
+	"group_name": "Collection 2",
+	"group_icon":"https://wallpapercave.com/wp/wp2515849.jpg",
+	"wallpapers":
+[
 	{
     "wallpaper_index": "9",
     "wallpaper_name": "WP4",
@@ -89,7 +104,16 @@
     "wallpaper_site_name": "kurawa.info",
     "wallpaper_site_url": "kurawa.info",
     "wallpaper_url": "https://liverpoolcore.com/wp-content/uploads/2019/08/b78f694475be70953e5287a31f6f80a5.jpg"
-  },
+  }
+]
+},
+
+  {
+  "group_index": "3",
+	"group_name": "Collection 3",
+	"group_icon":"https://liverpoolcore.com/wp-content/uploads/2019/08/8398.jpg",
+	"wallpapers":
+	[
 	{
     "wallpaper_index": "16",
     "wallpaper_name": "WP15",
@@ -145,8 +169,18 @@
     "wallpaper_site_name": "https://wallpapercave.com",
     "wallpaper_site_url": "https://wallpapercave.com",
     "wallpaper_url": "https://wallpapercave.com/wp/wp2184946.jpg"
-	
+  }
+
+]
 },
+
+
+  {
+  "group_index": "4",
+	"group_name": "Collection 4",
+	"group_icon":"https://wallpapercave.com/wp/wp3055261.jpg",
+	"wallpapers":
+	[
 	{
     "wallpaper_index": "25",
     "wallpaper_name": "WP7",
@@ -225,3 +259,5 @@
     "wallpaper_url": "https://i.pinimg.com/originals/a7/cf/cd/a7cfcd0a5d44ced72dd278aa36b89866.jpg"
   }
 		]
+	}
+]
