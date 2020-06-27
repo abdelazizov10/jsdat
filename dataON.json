@@ -1,0 +1,364 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-3940256099942544",
+
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "173186393601951_356298065290782"
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "Quick Tips for Beginner",
+        "image": "https://images.pushsquare.com/d258d2ab5b78a/the-last-of-us-2-guide.original.jpg"
+      },
+      {
+        "title": " All Collectibles",
+        "image": "https://images.pushsquare.com/1c016564ae19a/the-last-of-us-2-waking-up-guide-artefact-1.original.jpg"
+      },
+      {
+        "title": "Multiplayer ",
+        "image": "https://guides.gamepressure.com/the-last-of-us-part-ii/gfx/word/299950781.jpg"
+      },
+      {
+        "title": "Platinum trophy",
+        "image": "https://guides.gamepressure.com/the-last-of-us-part-ii/gfx/word/299950718.jpg"
+      },
+      {
+        "title": "Vehicles",
+        "image": "https://guides.gamepressure.com/the-last-of-us-part-ii/gfx/word/299950828.jpg"
+      },
+      {
+        "title": "Open world",
+        "image": "https://guides.gamepressure.com/the-last-of-us-part-ii/gfx/word/299950750.jpg"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Quick Tips for Beginner",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://images.pushsquare.com/d258d2ab5b78a/the-last-of-us-2-guide.original.jpg",
+        "text": "Don't use too much ammo, cocktails and bombs. In The Last of Us 2 there are limited quantities of ammunition, medikits and crafting materials. If this is not necessary, try not to use them while confronting your opponents, because you may end up in a situation in which you won't have any spare supplies. You can eliminate many enemies by performing silent executions that do not consume any supplies.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Thoroughly explore all locations. This is primarily intended to obtain a variety of loot. Look for items in sight, but also loot all drawers, cabinets and other containers. While replenishing your supplies, you will also find some collectibles - there are over 200 of them in the game.\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "A heroine is unable to regenerate health points. You can't forget about this issue. Beginning the battle while having a heavily wounded character may lead to your instant death. You can treat yourself primarily by using crafted or collected first aid kits. However, you can also find candy bars that restore some of your lost health points.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Use listen mode to find and track opponents. Its use is not limited in any way and it is also available on higher difficulty levels. Activating listen mode will allow you to plan attacks from behind more effectively and reduce the chances of being spotted by a missed opponent.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "In the game you can use silent weapons and they are very useful to eliminate single enemies without alerting the whole area. In the initial part of the game the only such weapon is a pistol with a silencer, but in the later part of the campaign you can also get a bow and crossbow.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Your character can hide in the high grass, although it is not 100% effective if you want to avoid of being detected. If you want to make it even harder for your opponents to locate your character, lay back on the ground. However, this action will very clearly limit your mobility.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Rely on dodges in melee combat, which can be activated by pressing L1 button. They have two main uses - to protect your character against the melee attacks of your opponent, or to avoid being caught by an enemy. If you get caught, press the Square quickly to free yourself and not to die or lose too much health.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "You can easily distract your opponents by throwing items - bottles or hollow bricks. This is particularly effective while confronting infected that are immediately moving towards the sounds they hear. This makes it easier to bypass them or ambush them and throw at them a Molotov cocktail or a bomb. Throwable items are also able to confuse the enemy guard dogs which are often tracking the heroine.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Keep Shamblers at a distance while fighting them. The unique and most powerful attack of this new type of infected is a cloud of poisonous gas and you can receive heavy damage if you are in range. It is also good to use a shotgun, rifle, flamethrower, trap mines and bombs to kill Shamblers.",
+        "isNative": "false"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "All Collectibles",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://images.pushsquare.com/7ca2488a1f6bd/the-last-of-us-2-waking-up-guide-trading-card-1.original.jpg",
+        "text": "The Last of Us 2 has an incredible 266 collectibles for you to find. You can view any collectibles you've discovered by pushing the touchpad when you're in-game, and using the R1 button to browse to the collectibles sub-section.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Artefacts are generally written notes and other pieces of lore-related ephemera you'll find in the world. They're typically represented by an icon showing a sheet of paper, signifying that they can be collected.\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Trading Cards function similarly to Artefacts, though they have their own symbol within the world and are categorised separately in Ellie's backpack. They are Ellie's main form of collectible.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Coins are similar to Trading Cards, however they represent Abby's primary form of collectible. They're represented in the world by two overlapping pennies.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Journal Entries are generally added automatically to Ellie's notepad, however there are a handful of moments where you'll need to interact with parts of the world in order to ensure she scribbles her thoughts down. These are considered one of the game's collectible types.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Workbenches are where you can upgrade your weapons using spare parts that you scavenge from the world. You simply need to look at these in order to \"collect\" them, however we recommend interacting with them just to ensure they get added to your checklist. You're also probably going to want to upgrade your weapons each time you find one anyway.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Safes are storage units that contain key valuable items, but you'll need to know the correct safe code combination in order to open them. Typically, the clues are written in Artefacts that you'll find nearby, but be prepared to use both the environment and your ol' grey matter in order to solve the puzzles.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "The Last of Us 2 has a total of 11 acts, divided into 45 chapters, although not all of them have collectbiles in them. Below you'll find guides to all The Last of Us 2's collectibles in the order that you'll discover them in the game.",
+        "isNative": "true"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Multiplayer",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://guides.gamepressure.com/the-last-of-us-part-ii/gfx/word/299950781.jpg",
+        "text": "No. There is no multiplayer mode in the current version of The Last of Us Part II. TLoU 2 only has a single player campaign to offer. Multiplayer will be available in the future. However, details about this mode have been shrouded in mystery at the moment.\n\nThe Last of Us: Part II is a much longer game than its predecessor and players shouldn't complain about the lack of content in the newest production of Naughty Dog studio. The lack of multiplayer may also be considered as good news for trophy hunters - the Platinum trophy can be earned just by playing the single player mode.\n\n",
+        "isNative": "true"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Platinum trophy",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://guides.gamepressure.com/the-last-of-us-part-ii/gfx/word/299950718.jpg",
+        "text": "Earning the platinum trophy in The Last of Us Part II should be much easier than in the first part. This is due to two main factors - in TLoU2 there are no trophies related to multiplayer content or trophies related to difficulty levels. The game can be played on any difficulty level, including the lowest level.\n\nMost trophies available in The Last Of Us: Part II consist in finding secrets and improving the equipment of the controlled character. However, there are no trophies in the game that would require you to grind. For more information, check out our trophy guide, in which we have described every available trophy in detail.",
+        "isNative": "true"
+      }
+    ],
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Vehicles",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://guides.gamepressure.com/the-last-of-us-part-ii/gfx/word/299950828.jpg",
+        "text": "There are various vehicles in TLoU 2 - they are used by members of the WLF to travel around Seattle. Unfortunately, you can't drive in cars, although in several stages you will have to shoot from the passenger seat.\n\nThe only fully interactive vehicle is the boat, which is primarily used during The Flooded City stage played as Ellie. The heroine uses a boat in the aforementioned mission to travel through flooded areas. The majority of the boat section is linear, although there are several larger areas with optional locations you can explore.\n\n",
+        "isNative": "true"
+      }
+    ],
+    "content6": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Open world",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://guides.gamepressure.com/the-last-of-us-part-ii/gfx/word/299950750.jpg",
+        "text": "No, TLoU 2 is not a game with an open world that you could explore freely, as in Horizon Zero Dawn or Days Gone.\n\nHowever, should be noted that some locations in the game are semi-open. This means that different paths can lead to your destination and you can explore locations which are not connected to the main plot. The most open stage in the game is Seattle downtown, which we discussed in more detail in our world atlas. It is a fairly extensive location where you can move freely. The controlled character does not have to focus on the main storyline right away, but can explore optional spots first. Stages with a similar structure had already appeared in the previous games developed by Naughty Dog. A similar scheme was available during the Western Ghats chapter in Uncharted: The Lost Legacy.",
+        "isNative": "true"
+      }
+    ]
+
+
+
+
+
+
+  }
+}
