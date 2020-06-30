@@ -1,0 +1,371 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-3940256099942544",
+
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "173186393601951_356298065290782"
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "Story 1",
+        "image": "https://i.ytimg.com/vi/doyeTJ11X1s/maxresdefault.jpg"
+      },
+      {
+        "title": " Story 2",
+        "image": "https://i.ytimg.com/vi/RA_4y5dZTgE/hqdefault.jpg"
+      },
+      {
+        "title": "Story 3",
+        "image": "https://i.pinimg.com/originals/95/19/9a/95199a1385277c2d4485ae680a520ecc.jpg"
+      },
+      {
+        "title": "Story 4",
+        "image": "https://img.itch.zone/aW1nLzI5MTA5ODIuanBn/original/zTHlZr.jpg"
+      },
+      {
+        "title": "Story 5",
+        "image": "https://img.itch.zone/aW1nLzMyMTg1NDEuanBn/original/ClC1id.jpg"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Story 1",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://i.ytimg.com/vi/doyeTJ11X1s/maxresdefault.jpg",
+        "text": "It started in June. It was finally summer, and my parents had a trip to Washington planned. I’m an only child. I would be home alone for two weeks. I remember how excited I was. The house to myself, no schoolwork, I could do whatever I wanted.\nWe lived on a large rural property on the edge of town. The woods that I grew up exploring stopped right at our fence. Every horizon was more heavily forested mountains. I had never really been afraid of the woods. I knew that the most dangerous things out there were just bears and mountain lions, and they rarely came this close to town. The woods sloped down from our backyard for about a mile to a creek, and then rose back up into the mountains. It was a peaceful, beautiful area.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "My friend and I had planned to camp out in the woods, not far past my yard, for a few days after my parents left. I had gotten a big tent for my birthday, and he was bringing snacks. The first night after my parents left we set up camp, had a small fire, ate s’mores and just had a fun time out there. We chatted for a long time, the kinda frayed conversations that can only happen around a campfire. Nothing was strange until late that night, long after we had retired to our tents and the fire was nothing but dim coals. I was trying to fall asleep when I heard some noises from outside. Some muffled crackling, like tree branches breaking and an almost static-like sound. But it sounded distant enough that I wasn’t really worried, just curious. Was there someone else out here? Had a tree fallen? I couldn’t tell.\nAt one point I thought I heard voices, but they were too far away to make anything out. I figured a group of hikers was making their way through and put it out of my mind. I fell asleep not long after that.\nThe next morning I asked my friend if he had heard anything. He assured me he hadn’t, but he had also fallen asleep early. We hiked down to the creek and spent most of the day swimming in the brisk water. At one point when I was resting on the bank, I noticed something. Across the creek and up the hill there were two trees, bent and broken near the top. Looking around I noticed a few more speckled up the mountain. I wondered if they had made the cracking noises I’d heard last night. But why had they snapped? I asked my friend what he thought, and he said they had probably broken in a storm or from rot. Which would be normal, except the breaks looked fresh. I tried pointing this out to him, but he just laughed and teased me for caring so much about a couple of trees. I laughed too and brushed it off.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "That night I heard more strange noises. More voices, and something that sounded like a radio. Other campers, maybe? It wasn’t until I was sure I had heard someone scream that I woke my friend. I whispered to him what I heard and told him to listen. The woods were completely silent for a long moment. My friend opened his mouth to say something, and that’s when we heard it. Another distant scream. But something seemed off about it, I couldn’t quite tell what. We listened for a while, hearing some other odd noises. I shivered. There was definitely something off about them. At one point we heard distinct laughter. My friend whispered to me that it was probably some other campers trying to mess with us. It seemed likely enough, and I didn’t know what else it could be. So we decided to ignore it and go to sleep.\nThe next morning we made light of it, joking and teasing each other for being scared of spooky noises in the woods. While we were eating lunch my friend told me that he would have to go for a bit. His mom’s only condition for him going on this little camping trip was that he come back for one day to celebrate his grandma’s birthday. It wasn’t a long walk back to his house, and he promised to be back by tomorrow morning at the latest. It seemed reasonable, but I was disappointed to be spending possibly the rest of the day by myself. After he left I made my way down to the creek. I whiled away the afternoon skipping rocks across the water, swimming when I got too hot, and catching frogs. I was bored, but not ready for my camping trip to be over yet. Eventually, I made my way back to camp and cooked myself some hotdogs to eat. I was hoping my friend would be back before dark, but there was no sign of him. Figuring he’d be back in the morning, I went to sleep early.\n\n",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "That night I was woken up to another scream. This one sounded disturbingly close, and without my friend here it was even scarier. I hid inside my sleeping bag and listened. Nothing at first. Then there were some loud cracking sounds, like something making its way through the trees. They passed by, through the woods beyond my tent, while I lay there shaking, and faded off into the distance. I don’t know how long I laid awake, just listening, but at some point I must have fallen asleep. I woke up late the next morning with the sun heating my tent to an uncomfortable degree. I climbed out, sweaty and frightened, and couldn’t wait for my friend to get back. Would he even believe me?\nBut by noon he hadn’t come back. I began to worry, and decided if he wasn’t back soon I was just gonna pack up camp and go home. I didn’t really feel like spending another night out here anyways. Sure enough, he didn’t show up. Maybe he felt like staying at home? I wasn’t sure. I was definitely mad at him as I packed up camp and hauled everything back to my house on my own. By that time the sun was setting. Exhausted, I made myself something to eat and sat on the couch watching TV. At around 9 PM there was a knock at the door. Guessing it was my friend, I got up a bit grumpily and answered the door. But it wasn’t my friend, it was his mom. And she looked furious. She demanded to know where he was, and that’s when my stomach sank. I told her that he had left yesterday to celebrate his grandma’s birthday. Her face went pale. She told me that he hadn’t come home.\n\n",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "That night she called the police, and by the next morning they had sent out a search party. They thought he must have gotten lost in the woods on his way back, and his angry mother scolded me for not walking him back to the street. But there was no way he could have gotten lost. The woods sloped right up to the road, and we’d been through them a thousand times. She wouldn’t listen to me though. The police asked me to recount everything I knew and show them to where we had been camping. I couldn’t believe that all this was real, that my friend was really missing. I went through it in a blur.\nBy that night they still hadn’t found him. I sat in my room with my window open. From that window I could see all the way to the mountains, I could even see the dip in the land where the creek stirred fog up into the trees. I sat there, staring off into the trees, wondering where he was, wondering if they’d find him. I thought about the scream I’d heard. Was that him? Was he out there, maybe hurt, just waiting for someone to find him? The worry kept me up late into the night.\nThat’s when I heard it. A voice, out in the trees. I listened hard. It was my friend’s voice, I was sure. But I couldn’t make out what he was saying. Was he calling for help? I grabbed my jacket and a flashlight. He must be out there, lost or hurt. I walked out into my backyard and listened. The night was dark and cold, clouds covered the moon despite it being summer. I hesitated. I had never been scared of the woods before, but I had a horrible feeling of dread. Then I heard my friend call out for help, clearly from beyond the trees. I hurried forward and went out the gate at the back corner of our yard, out into the forest. It was even darker beneath the trees. I listened and heard my friend’s voice again, calling out. I shined my flashlight and followed his voice, deeper into the woods.\n\n",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "It wasn’t until I had been following it for several minutes that I realized it didn’t seem to be getting any closer. I called out his name as loud as I could. The woods were silent for a long moment. Then I heard him scream, and scream again. In a panic, I followed the sounds. I didn’t know what was happening to him, or what I could do about it. I had no plan, but there was no turning back. I felt like it was my fault he was out here, and I couldn’t just leave. I kept moving forward. I noticed there was something strange about the screams, about how he called for help. But I couldn’t put my finger on what was off. I didn’t think too much about it. I had to hurry, but the brush was slowing me down. I could barely see, I only had the light of my flashlight to guide me.\n\n",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Suddenly, the forest opened up and I was at the edge of the creek. How did I get here so quickly? I listened for my friend and heard nothing. Fog from the creek swirled around the trees and reflected the light of my flashlight. I called out to him again, terrified that I was too late. My heart pounded in my ears. That’s when it moved. Across the creek, in the trees. It was so tall and thin, it was hard to make it out in the dark forest. I shined my light on it and screamed. It was as tall as any of the trees around it, skeletally thin, with arms that hung down past its knees. Its long, thin neck was like a pole, and on top of it were two megaphone-like sirens. From those speakers I heard my friend’s voice call out my name. I realized suddenly what was wrong with the sound. It was staticy and broken, like a bad recording. I was frozen for a moment, unable to take my eyes off the horrible monster. Then it played back my own scream and took a horrible step towards me. I turned and ran.\n\n",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "It was hard running uphill through the brush, only by the light of my flashlight. In my panic, I tripped repeatedly and scrambled back up, never looking behind me. I could hear it. It played a distorted siren sound as it crashed through the trees after me. I ran as fast as I could, lungs heaving, never daring to stop.\n\nSomehow I made it back to my house. I slammed my backdoor behind me. I couldn’t run anymore, I was shaking so badly and my lungs burned. I summoned the courage to look through my kitchen window, out at the forest. There was no sign of it, no sound, no movement in the trees. I stayed there until the sun came up, staring at the forest. I saw nothing. I heard nothing.\n\n",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "I was sure after that, sure that the monster had caught my friend. I didn’t know when or how or why. And I didn’t tell anyone what I saw. I knew it was real, but I knew with equal certainty that no one would believe me. They never found him.\n\nVideos began cropping up online. Then stories and games. And there were a couple that I was certain were real. That creature was still out there. But I knew that without the videos. Because sometimes, late at night, I’d hear my friend’s voice from the woods. Sometimes I’d even hear my own voice, or a distant siren.",
+        "isNative": "false"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Story 2",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://i.ytimg.com/vi/RA_4y5dZTgE/hqdefault.jpg",
+        "text": "so me and my friends Jena and Marc where in a summer camp and after telling creepy stories and cheap scares we went to bed about 2 or 3 hours later I heard a police siren then what sounded like Jena Screaming at first I thought it was just a Nightmare until Marc unzipped and entered my tent with a terrified look on his face, (story purposes i gave Jena a friendship bracelet for her birthday)\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Marc said that he heard the screaming to so me and him went towards the sound that got louder, louder, then even louder then we took are compasses out and they were going crazy spinning.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "then we realized she stopped screaming and let out a short laugh then stood quiet, then we saw a tree that weirdly looked like a stick figure then we heard a ear hurting siren sound on the tall stick figure tree we looked up and saw something i will never forget it wasn't a tree it was a tall being with two sirens on its head with bloody teeth in one siren was an arm and on that arm was the green red and yellow bracelet i gave Jena.",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "the voice, maybe not the first scream, but the voice wasn't her it was that we called it \"siren head\" then we booked it the other direction and ran back to the camp\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "as the camp leader saw us running back she was mad at first then she was terrified as well when she saw siren head, she ran inside, Then she ran back out with a shot gun \"GET INSIDE\" she yelled at us. then a sound i will never forget, the 4 shots then, silence for 1 or 2 minutes then she ran inside with the green red and yellow bracelet and gave it to me along with a big hug \"i'm sorry\" she said \"I could tell you to were close\" I remembered every second of that day even 1 year later\n\n",
+        "isNative": "false"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Story 3",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://i.pinimg.com/originals/95/19/9a/95199a1385277c2d4485ae680a520ecc.jpg",
+        "text": "I was camping once and could have sworn i heard a little girl in distress. It was like she was screaming from pain, it was horrifying. I was only 10 at the time and had no idea about siren head. M e and my brother went to investigate and found nothing, but after watching this video, i am thankful we came back alive. Let me tell you, i wont go investigating like that again!\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "I have also had two times that I've woken up, unable to move, and saw figures standing in my room. The first time was when i was about 6-7 and i woke up, only able to move my head. I turned to look around the room and their was a lady standing in front of my closet not moving. She was wearing a rainbow knitted sweater that matching beanie. She didn't seem like she meant any harm. If anything it almost looked like she was guarding me. Of course i was still terrified, so i closed my eyes and when i opened them i couldn't see her anymore, but i still thought i could sense her presence. I had never seen anyone that looked like that, so it was quite odd.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "The other time was the same thing, woke up, could only move my head, but this time when i looked over i saw an incredibly tall man. I'm talking at least 7 feet, I don't remember if i could see his face or not. He was incredibly skinny, and moved closer to me, but he wasn't moving. H e just floated over to me, stopped, then floated into my wall towards my backyard. My friends at school later told me they think it was slender man, but i'm not so sure. I sometimes wonder if this man was the thing the woman was trying to guard me from, for the two experiences happened in the same year. I haven't had an experience like that since then but i still to this day think they were real. The siren head one i know was real because my brother heard the noise first.\n\n",
+        "isNative": "true"
+      }
+
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Story 4",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://img.itch.zone/aW1nLzI5MTA5ODIuanBn/original/zTHlZr.jpg",
+        "text": "Earning the platinum trophy in The Last of Us Part II should be much easier than in the first part. This is due to two main factors - in TLoU2 there are no trophies related to multiplayer content or trophies related to difficulty levels. The game can be played on any difficulty level, including the lowest level.\n\nMost trophies available in The Last Of Us: Part II consist in finding secrets and improving the equipment of the controlled character. However, there are no trophies in the game that would require you to grind. For more information, check out our trophy guide, in which we have described every available trophy in detail.",
+        "isNative": "true"
+      }
+    ],
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Story 5",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://img.itch.zone/aW1nLzMyMTg1NDEuanBn/original/ClC1id.jpg",
+        "text": "Character Appearance (cause I'm lazy :p/ btw I had to go into my Wattpad to get the character appearance thing cause I didn't originally write it in my doc ;w;)\n\nDisclaimer! These places are actual places that are native to my country, so please don't take this seriously, It was just for fun :)\n\n- John (The protagonist): Pale male with dirty blond hair and chocolate eyes. Has a caring nature, mostly wears blue-flannel jackets with a black shirt underneath and dark grey jeans. Lost young for his age, kinda behaves like Chase Brody.\n\n- Amanda (John's Wife): Tan female with raven hair and hazel eyes. Has severe dementia, causing problems later on. Mostly wears pastel hoodies/jumpers with ripped black jeans. Caring, loyal and looks more like John's sister according to locals.\n\n- Remy: Tan male with chocolate hair and eyes. Wise, and a little on edge at times. Mostly wears forest green hoodies with black shorts. Partners with Adelaide(Not the city :p)\n\n- Adelaide: Pale (originally female) with light brown hair and ocean eyes. Over-protective, sweet, knowledgeable about most things, mother of the group. Mostly wears blank hoodies/shirts with camo pants. Partners with Remy.\n\n- Celine: Pale female with lead coloured hair and dark eyes. Worries about her brother, Damien, sweet, stubborn, quick-witted. Mostly wears her navy jacket with fluffy, white ends with jeans and boots.\n\n- Damien: Tan male with raven hair, beard and chocolate eyes. A tough, courageous, natural leader, empathetic. Mostly wears a black jacket, baby blue turtleneck, blacks jeans and boots.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "--John’s POV--\n\nHearing the crunch of the gravel underfoot, I was heading towards my car. Today was the day I hated the most. I had just dropped off my wife at the airport so she could go back to America to be with her family as her time ticked closer. She had severe dementia and she needed someone to stay home to look after her. I had to make the hard decision about either she went home to the hospital there or I’ll have to see my wife have needles shoved into her arms just to help her memory. I decided with the airport but instantly regretted it because I’ve spent my whole life with her. She was the one for me and I was the same for her.\n\nI brushed my hand through my hair and heavily sighed. I was sitting in my car, my mind was racing and I could start to feel my waterworks in my eyes. Just seeing Amanda walking away from me for the last time after lots of tears and hugs. But here I was breaking down because this was the last time I’ll ever see her again.\n\nI arrived home and immediately grabbed some whiskey and sat on the couch. Turning on the TV I flipped to 7 News. They were talking about the usual, celebrity gossip, global warming, sports and the weather. It felt like forever but it had only been 30 minutes. I looked down to see an empty whiskey bottle.\n\n“Shit…” I mumbled aloud. I couldn’t bother to move from the couch, so I laid the bottle down and sat up, putting my head in my palms. Damn it, there go my waterworks again. As I thought this afternoon could get any worse, I got a call from my boss. I picked up the phone as all I could hear and process was,” Sorry John, I’m afraid that I have to tell you that you’re fired”.\n\nI just sat there, feeling emotionless. I lost my wife and my job! Well at least I still had Juniper, my german shepherd. He came up to me and snuggled into my arm. He was the only one that could understand me now…\n\n--Janise’s POV--\n\nI sat alone in my ‘fire watch’ tower-like always. But today was a little different, I actually got a call from someone that wasn’t my boss! I quickly answered and in a polite manner said, “Hello? Janise Lindsey talking”. On the other side of the call, a deep, but soft voice,”Hello? Uh… Hi... I’m John Carly, I’m calling because I saw an ad about needing more employees for... The Tallarook State Forest Firewatch Crew?” I thought to myself, ad… Wha- OOH, that ad. I then replied,” Yes, we did, so where are you from John?”\n\n“I’m from-…”\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "--John’s POV--\n\nSo far, So good! I felt like I was definitely going to get this job but… a wave of realization hit me. Wasn’t Tallarook Forest known for the number of people that go missing? I hesitantly asked,” Janise… Isn’t Tallarook known for having a lot of people go missing?” I heard an echoing sigh come from the other end.\n\n“Yes… But how long ago was that?” she replied hastily.\n\n“Around three years ago… The rumors have ended after all”\n\n“Well I for sure have not heard any ear crippling noises for all I know!” she joked. I let myself chuckle. Maybe getting a job here won’t be so bad after all.\n\n--Janise’s POV--\n\nDamn, that chuckle is so fucking sexy and calming. Wait! I can’t think about that now. He just lost his wife, Amanda I think her name was and getting a job here is like a recreational job… I did come here because of my ex...Fucking Maria left me for a GUY. She said she was lesbian and that she liked me. My eyes started to water a little but keeping a professional voice asked,” So John, how confident are you about accepting this job?” There was a moment of silence before John replied,” I’m confident about doing this, and I’ll make sure that I’ll protect this forest with my life” A smile crept on my face and I cheerfully said,” Well then John, welcome to the team!”\n\n--Adelaide’s POV-- (New Character POV time :D)\n\nI was packing my small duffle bag, because I was about to go on a camping trip with my fiance, Remy and my two best friends who are surprisingly twins, Damien and Celine. Even though Celine was a little older by a few seconds, she still treated Damien like he is a toddler. I chuckled at the thought. This was going to be my first camping trip that wasn’t related to anything at school or scouts. Suddenly I felt someone’s cold hands touch my shoulders, I calmed down once I realized that it was just Remy, “You ready yet?” I turned my head a little so I could just see his face and replied in a cheeky way, “Almost Ramen, but~ I’m ready for you~” Seeing him get flustered and cover his face in embarrassment, I playfully punched his shoulder and giggled, “C’mon, I was joking!” Remy stuck his tongue out and I returned it, receiving a little kiss. I felt my face turn a little red and told him that we should go pick the dynamic duo (the twins) and set up the camp before it turned dark.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "--Celine’s POV--\n\nI was pacing the driveway impatiently, it had been five minutes past the time that Adelaide had planned for her to come and pick us up. I was starting to get a little worried until I heard Damien behind me call, “Celine calm down! You’re going to give yourself a heart attack” I shock my head vigorously and replied, “Would you be panicking if you best friend wasn’t here on time?!” Damien gave a big sigh and pulled out our luggage and stood next to me. “You know Celine, Adelaide and Remy could be fu-”\n\n“NO!” I rudely interrupted, “She wouldn’t be doing that so bring head OUT of the gutter”. Damien starting laughing and playfully nudged me,” C’mon I was only joking now” placing my head in my hand I muttered, “You sound like Adelaide now Damien…”\n\n--Damien’s POV--\n\nAfter having that little joke with her, Adelaide and Remy almost immediately arrived, “Sorry I’m late guys, just had to finish packing the boot (back)” I replied, “ It’s alright, though Celine was starting to worry like a bomb was about to explode!” Adelaide gave one of those chuckles that made everyone else in the car laugh like there was no tomorrow, soon the whole vehicle became full of conversations, laughter and some cheesy jokes. Life was great, I had my friends, family and a beautiful pet dog. Everything seemed peaceful and quiet.\n\n--John’s POV--\n\nI was packing my bags preparing to leave my small apartment and move to live in a smaller apartment, which was my assigned tower at Tallarook. I was obviously going to bring Juniper with me because he was my support buddy and who would look after him while I was away? Juniper was following me making sure that I brought everything that was at value to me and making sure I brought enough toys for him. My suitcase and backpack were full and are ready to rumble, I put them in the back of my truck, opened the passenger door for Juniper and hoped in the driver’s seat to go to Tallarook. I also made sure that I handed back the keys to my old apartment since I probably won’t be coming back here ever…\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "--Continuation of John’s POV--\n\nIt was now pretty late in the evening now, but I got to see the most magnificent sunset I ever have seen. Now I was really wishing I had Amanda here with me, hand in hand just staring out into the distance seeing the reds, purples, pinks and gold, enjoying each others company and the peaceful noises of the surroundings. But I did get to hear the satisfying crunch of leaves underfoot, that made me feel content. Juniper was prancing about enjoying his time out in the wild, he was a good boy and stayed at least a meters close to me instead of running off and getting lost. I was heading in the direction of the Flat Rock Campsite Tower, it sounded a bit weird at first but then realised why the campsite was called this because there was a massive flat, rock riverbank near the stream. This place looked wonderful, I walked up to a small direction signpost and looked through the different trails before hitting where it said; Flat Rock Tower - 1.5km Ahead.\n\nAs I approached the tower and admired the view set in front of me. The tower was placed on top of a small hill, overlooking the campsite, forest and a river that ran through it. It was peaceful, Juniper was sitting next to me panting after his long and exciting run. I patted his head before heading up the staircase that leads to the top of the metal structure, ruffling with my keys I quickly unlocked the door and stepped inside. It looked really spacious and cozy at the same time, extremely different from the spooky vibe that it radiates outside. Inside there was a little kitchen with a small table, a little study area and a surprisingly comfortable bed. I left my bags at the door as Juniper headed straight to the bed to get the new ‘comfy spot’, I laughed and then heard the radio turn on and speak, “Hel-lo John i-it’s me Ja-nise, How a-re you sett-ling in?”\n\nThe radio was static but I pick up,” Hi Janise, I’m settling in quite well and Juniper has already laid claims on the bed” I heard on the other end Janise laugh, wow… no one but Amanda laughed at my small jokes… I shook my head and went back to focusing on talking, “How are you?”\n\n“I’-m doing we-ll, I did-n’t know y--ou had a do-g!” she exclaimed quite excitedly. I shrugged and continued talking with her until we both had to sleep since I did have a big first day tomorrow working as a park ranger for Tallarook!\n\n",
+        "isNative": "true"
+      }
+
+    ]
+
+
+
+
+
+
+  }
+}
