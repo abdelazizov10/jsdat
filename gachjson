@@ -1,0 +1,432 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-3940256099942544",
+
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "173186393601951_356298065290782"
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "Story 1",
+        "image": "https://i.ytimg.com/vi/doyeTJ11X1s/maxresdefault.jpg"
+      },
+      {
+        "title": " Story 2",
+        "image": "https://i.ytimg.com/vi/RA_4y5dZTgE/hqdefault.jpg"
+      },
+      {
+        "title": "Story 3",
+        "image": "https://i.pinimg.com/originals/95/19/9a/95199a1385277c2d4485ae680a520ecc.jpg"
+      },
+      {
+        "title": "Story 4",
+        "image": "https://img.itch.zone/aW1nLzI5MTA5ODIuanBn/original/zTHlZr.jpg"
+      },
+      {
+        "title": "Story 5",
+        "image": "https://img.itch.zone/aW1nLzMyMTg1NDEuanBn/original/ClC1id.jpg"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Gacha Club Start ",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://www.pockettactics.com/wp-content/uploads/2020/07/gacha-club-download-900x506.jpg",
+        "text": "Looking for a guide on how to play Gacha Club? Once you have completed the Gacha Club download, chances are you’ll have lots of questions you want answered as the new mobile game can be a bit confusing. As such, we’d recommend doing some studying up beforehand so you can load into it well prepared.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Gacha Club is partly about fashion. You create a host of chibi-style anime characters and dress them while deciding what their hairstyle should be and what weapons they’ll pose with. Once that’s done, you can enter a studio and add backgrounds and pets until you’ve got your ideal shot. Gacha Club is also about combat, too. There are more than 180 units you can send into battle and there are four different modes you can play, such as story mode and tower mode. You can also collect gems and gold to increase your power and take part in mini-games.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "So, there’s certainly a lot going on here, but that’s where our how to play Gacha Club guide comes in. We’ll go over how to download it, what platforms it’s coming to, and some other helpful tricks to help you feel fully prepared. Now that’s out of the way, here’s how to play Gacha Club.\n\n",
+        "isNative": "true"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "DOWNLOAD AND PLAY GACHA CLUB",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://i.pinimg.com/originals/53/05/61/530561e92f1d2f0e393754c94ce75074.jpg",
+        "text": "You can download Gacha Club on Android by heading to Google Play and searching it. The casual title came out June 30, so there’s nothing stopping you from playing it on your Android device.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "It hasn’t come to PC and iOS, yet, but it will be “soon“, according to developer Lunime. If you don’t want to wait, however, we go over how to get around that further down the guide.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://imag.malavida.com/mvimgbig/download-fs/gacha-club-28044-1.jpg",
+        "text": "Gacha Club has four different modes for you to play: Story, Tower, Training, and Shadows of Corruption. Fights play out in typical turn-based fashion, and competing in these modes will earn you coins and gems that you can use to buy units, pets, and other things.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "If you want something more casual, you can play mini-games for a currency called Byte, which in-turn can be spent on units specifically for these mini-games.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "When you’re not fighting in any of these modes, you can customise your team and even show them off when they are past level ten.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "HOW TO GET GACHA CLUB CHARACTERS",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "To get more Gacha Club characters and units you’re going to need tickets. Thankfully, you can get ten of them for leaving a review of the game. Otherwise, you’ll need to put up the gold you’ve earnt for a chance of getting more tickets. To spend them, simply go to the gacha tab in the main menu.",
+        "isNative": "true"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "GACHA CLUB OUTFITS",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://www.pockettactics.com/wp-content/uploads/2020/07/gacha-club-download.jpg",
+        "text": "You can get a host of Gacha Club outfits in-game for free, so you can mess around until you stumble upon a look you like. New outfits will gradually make their way into the game as it gets older.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Lunime also holds competitions where you can submit drawings that may become available in-game if you win. The first fashion competition has already come and gone, but you can keep tabs on the next one on the developer’s website.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "IS GACHA CLUB COMING TO PC?\n",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Gacha Club will be coming to PC “soon”, according to Lunime. The developer reaffirmed this when the RPG game came to Android with a post of its Facebook page.\n\n “It might take a few hours to appear in your Google Play store to download depending on your country,” the post reads. “Apple iOS and PC versions coming soon!”\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "IS GACHA CLUB COMING TO IOS?\n",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Gacha Club will come to iOS eventually but we don’t have an exact release date just yet. Much like PC, the developer did confirm it was happening soon, but stopped short of saying when exactly.\n\n",
+        "isNative": "true"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "GACHA CLUB BLUESTACKS\n",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://i0.wp.com/nerdschalk.com/wp-content/uploads/2020/07/screen-shot-2020-07-01-at-4-11-06-pm.png",
+        "text": "If you don’t have access to an Android phone then you can download Bluestacks and play the new mobile game on your PC. Simply head to the website and hit the download button. Once you have the application up and running, you’ll be able to open the Google Play store through it on your PC to simply look it up and download it.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "GACHA CLUB UPTODOWN\n",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Gacha Club is also available to download on Uptodown if you’d prefer that to Google Play. The Android app won’t help you play the casual game on iOS, but it does offer a different avenue to fetch your download from on Android.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "GACHA CLUB APK\n",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "There aren’t many sites offering a Gacha Club APK right now, but, thankfully, APKPure is. So you can get a hold of it yourself by following the link.",
+        "isNative": "true"
+      }
+
+    ],
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Gacha Club codes",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://i.ytimg.com/vi/_gDAnZvHKJQ/hqdefault.jpg",
+        "text": "Gacha Club codes will instantly grab your attention when you find out what they do. They promise free things such as currency that you can get without needing to spend a dime. That Gacha Club currency comes in handy, too, when you’re trying to gacha for specific items like more units.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "If you’ve been out of the loop, Gacha Club is partly about fashion and partly about combat. You build up a team of chibi-style anime characters and duke it out in fights to earn currency. With that, you can gacha for more items and characters, or units as they’re also called. When not in the heat of battle, you can show off your characters once they’re levelled up enough in various photoshoots, which is where the fashion part of Gacha Club comes into play.\n\n",
+        "isNative": "true"
+      },
+
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Getting a hold of Gacha Club codes certainly help in doing all of that, though it isn’t really explained how you use them. As such, we’re putting together this guide to help you out. Now that’s all out of the way, here’s how to use Gacha Club codes on your phone.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "HOW TO USE GACHA CLUB CODES\n",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Getting a hold of Gacha Club codes certainly help in doing all of that, though it isn’t really explained how you use them. As such, we’re putting together this guide to help you out. Now that’s all out of the way, here’s how to use Gacha Club codes on your phone.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "HOW TO GET GACHA CLUB CODES\n",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Gacha Club codes appear to be random, unfortunately, and unique to each user. So we can’t simply list them here. You can get one code for free, though, by opening the phone in your menu. If you look to the left of the phone, you should see a code alongside the text ‘code found’. For us, it was 604-735, but it may be different for you.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Other codes are hidden throughout the game, so you’ll need to keep your eyes peeled for similar opportunities. If we find out anything else, though, we’ll be sure to update this guide with the new information.\n\n",
+        "isNative": "true"
+      }
+    ]
+
+  }
+}
