@@ -1,0 +1,199 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-3940256099942544",
+
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+        "BannerFacebook": "",
+        "InterstitialFacebook": "",
+        "NativeFacebook": ""
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "Likee app",
+        "image": "https://qph.fs.quoracdn.net/main-qimg-69d63ade7a377ce4d843724562766915"
+      },
+      {
+        "title": "tips and tricks",
+        "image": "https://i.pinimg.com/originals/a8/87/fc/a887fc7f1a24bf439180a0d2e841b541.png"
+      },
+      {
+        "title": "Cautions",
+        "image": "https://images.yourstory.com/cs/2/70651a302d6d11e9aa979329348d4c3e/likeee-1579856461937.png"
+      },
+      {
+        "title": "Release",
+        "image": "https://www.indiatechonline.com/images/it-happened/short-video-sharing-app,-likee,-is-two-years-old-in-india-3477.jpg"
+      },
+      {
+        "title": "Privacy",
+        "image": "https://image-act.like-video.com/live/live-assets/magic-live/img/head-en.9c63a12.png"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Likee app",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://i.pinimg.com/originals/a8/87/fc/a887fc7f1a24bf439180a0d2e841b541.png",
+        "text": "Likee (formerly LIKE) is a popular short video making and editing app worldwide. It was released in July 2017 and is now one of the world's most popular short video apps. Likee has grown rapidly in many countries like India, Indonesia, Russia, US，Brazil, etc.\n\nLikee features magical video editing tools including special effects, music magic filters, stickers, face morph and beauty camera. All these tools enable users can easily making a magical and amazing short video without too much efforts. Likee also support live broadcast watching and friends making by means of People Nearby function.",
+        "isNative": "true"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "tips and tricks",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://images.yourstory.com/cs/2/70651a302d6d11e9aa979329348d4c3e/likeee-1579856461937.png",
+        "text": "Likee is a short video creation platform where users can be creative, share videos, add music, and use filters.\nUsers can search different hashtags and explore content posted by others worldwide, with the option to filter by location.\nYou don’t need an account to watch the most popular videos, but users do need to be logged in to access video content posted by nearby users.\nUsers can comment on videos, and they have the option to control who leaves comments on their posts.\nAccounts can be created using a phone number, Facebook, or Instagram account. Date of birth is also required – but this information is not shown publicly.\nThe app uses levels to encourage users to earn more XP (experience points). Which are earned by opening Likee every day, watching/posting videos, fan growth and sending/receiving gifts.\nLikee features in app purchases, whereby users can buy ‘diamonds’ and gift these as ‘beans’, which can be cashed out of the app for real currency.\nUsers can click the top right corner to ‘reward’ another user.\n",
+        "isNative": "true"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Cautions",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://vignette.wikia.nocookie.net/mr-meat6971/images/1/1e/ShotgunHoldMrMeatNew.png",
+        "text": "#1. The Minimum Age to Use Likee is 16\nLikee is rated 12+ on the Apple Store and Google Play Store recommends Parental Guidance. Technically, 16 is the minimum age according to Likee’s own terms and conditions. It says that under 16s must use the app under parental supervision.\n\n#2. Likee claims it is not for children\nThis is not an app for kids. If you read the Privacy Policy at the Sign Up stage you’ll see that it says it’s “not directed to children”.\n\n#3. Strangers can message your child\nWorryingly, strangers can message your tween or teen. In fact the Likee Messages Screen is actually labelled “Stranger’s Messages”!",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "content",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "#4. Your content could be shared\nVideos can be shared onto various other apps like phone messages, Instagram, Snapchat and Whatsapp. So this means anything posted on Likee could be shared elsewhere.\n\n#5. Deleting your account is not straightforward\nTo delete an account you have to describe why you want to delete it and enter your email or phone number.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "#6. There are limited content restrictions\nLikee is an app that is open to the world, so there’s potentially no restrictions on content posted on the app. Your tween could see content that is not age appropriate.\n\n#7. There are in-app purchases\nThere is a Wallet system where you earn, and can also pay for, Diamonds and Beans so there is the potential for your tween or teen to spend on this app, but it’s unclear what these can be used for and there was no information available on the Likee website.\n\n",
+        "isNative": "true"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Release",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://www.indiatechonline.com/images/it-happened/short-video-sharing-app,-likee,-is-two-years-old-in-india-3477.jpg",
+        "text": "Likee was originally known as LIKE until mid-2019, when it was rebranded and redesigned.\n\nAs of the second quarter of 2019, Likee's mobile monthly active users had reached 80.7 million. On 25 September 2019,[22] the Indian political party Aam Aadmi Party created an official account on Likee.\n\nOn 30 September 2019, a parental controls feature was introduced, allowing parents and guardians of Likee users to remotely control or restrict access to the app's content.\n\nIn 2017, Likee was rated as one of Google Play's Best Entertainment Applications.\n\n",
+        "isNative": "true"
+      }
+    ],
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Privacy",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://image-act.like-video.com/live/live-assets/magic-live/img/head-en.9c63a12.png",
+        "text": "As other video apps, Likee is also condemned by the international community for privacy and inappropriate content. People say it could expose children to sexual predators.Because of that, the 'Enable Parental Controls' feature on Likee can make sure parents and guardians to control or restrict young users' access to content in Likee. Also, for teens to avoid inappropriate video; provide viewing environments and content suitable for young people.\n\nIn June 2020, the Government of India banned Likee with 58 other Chinese origin apps citing data and privacy issues. The border tensions in 2020 between India and China might have also played a role in the ban.\n\n",
+        "isNative": "true"
+      }
+    ]
+
+  }
+}
