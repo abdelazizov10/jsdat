@@ -1,0 +1,222 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-3940256099942544",
+
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+        "BannerFacebook": "",
+        "InterstitialFacebook": "",
+        "NativeFacebook": ""
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "UC Browser",
+        "image": "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/4rjnt3gg2qniah4h_1594128505.jpeg"
+      },
+      {
+        "title": "features",
+        "image": "https://www.feedride.com/wp-content/uploads/2019/09/UC-Browser-Turbo-1-6-9-900-660x330.jpg"
+      },
+      {
+        "title": "Dangerous",
+        "image": "https://tipsmake.com/data/images/the-unsafe-feature-on-uc-browser-allows-hackers-to-take-control-of-android-phones-remotely-picture-1-u5dz0fVoD.jpg"
+      },
+      {
+        "title": "Uc Browser India",
+        "image": "https://phoneradar.com/wp-content/uploads/2015/10/uc-browser-in-india1.jpg"
+      },
+      {
+        "title": "Alternatives",
+        "image": "https://i.ytimg.com/vi/Lrv3X95Us0M/maxresdefault.jpg"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "UC Browser",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://i.pinimg.com/originals/a8/87/fc/a887fc7f1a24bf439180a0d2e841b541.png",
+        "text": "UC Browser is a Chinese web browser developed by mobile internet company UCWeb, a subsidiary of the Alibaba Group. It is one of the most popular mobile browsers in China, India, and Indonesia,[7] and was the 8th most downloaded mobile app of the 2010–2019 decade\n\nOriginally launched in April 2004 as a J2ME-only application, it is now available on a number of platforms including Android, iOS, BlackBerry OS, Java ME, Symbian, Windows Phone and Microsoft Windows. It has been the subject of several security and privacy controversies, and was banned in India on June 29, 2020, shortly after the 2020 China–India skirmishes.",
+        "isNative": "true"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "features",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Night Mode:\n\nThe night mode feature helps you save your battery life. If you are running out of your battery then you must switch to the night mode in the UC browser.\n\nThus it extends your battery life.\n\nThis feature also helps you protect your eyes while browsing at night. What this feature does is that it reduces the screen light. This feature is totally free.\n\nYou can switch to the night mode in UC browser by going into the menu and clicking on the night option.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Mini Version:\n\nUC browser is also available for Android phones with lower space. In such cases, you can use the UC browser mini version.\n\nIn this way, you can enjoy this tiny package on your android phone that has lower specs. It takes a maximum of 20 MB space for installation which is much less than the UC browser.\n\nThe UI of this mini version is also a bit different from the UC browser. It has more powerful download features as compared to UC browser.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Cloud Boost Technology:\n\nThis technology basically uses the UCWeb’s sever to boost the speed of browsing. This makes loading faster.\n\nYou are allowed to enable or disable this feature as per your choice.\n\nThis cloud system gets data from the server that is available nearest to it. This makes the loading time faster.",
+        "isNative": "true"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Dangerous",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://vignette.wikia.nocookie.net/mr-meat6971/images/1/1e/ShotgunHoldMrMeatNew.png",
+        "text": "Research has found that UC Browser is insecure, with many vulnerabilities and privacy issues.\n\nIn March 2019, analysts at the anti-malware firm Doctor Web publicly disclosed that UC Browser and UC Browser Mini for Android was downloading and installing extra modules from the company's own servers via an unprotected HTTP channel. This exposed browser users to arbitrary remote code execution if an attacker was able to perform a man-in-the-middle attack to deliver malicious module (but no cases of exploitation were publicly disclosed). Furthermore, this violates Google Play policies that forbid Google Play apps from downloading any executable code from any sources outside of Google Play. Researchers contacted both UCWeb Inc. and Google prior to the disclosure, but as of March 26, 2019, neither app was patched and users are still vulnerable to the attack.\n\nAccording to tests on Qualys, a cloud security firm, and High-Tech Bridge, an internet security firm, UC Browser contains Logjam, FREAK, and POODLE vulnerabilities. UC Browser also uses an outdated RC4 cipher cryptography with deprecated SSL 3 or even SSL 2 protocols, which have many security flaws.\n\n",
+        "isNative": "true"
+      }
+
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Uc Browser India",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "On June 29 Monday, 2020, the Government of India banned UC Browser, along with 58 other Chinese apps such as TikTok and WeChat, citing data and privacy issues and claiming that it is a \"threat to the sovereignty and integrity\" of the country.Many commentators have suggested that the move was a retaliation to the 2020 China–India skirmishes between India and China.\n\n",
+        "isNative": "true"
+      }
+    ],
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Alternatives",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://image-act.like-video.com/live/live-assets/magic-live/img/head-en.9c63a12.png",
+        "text": "1. JioBrowser\n\nProbably the closest thing to UC Browser when it comes to interface and features, the Indian-developed JioBrowser should be a natural go-to replacement for those migrating from UC Browser. It’s hugely popular, offers regional language support across India, and yes, it offers live Cricket score updates just like the exiled UC Browser!\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://image-act.like-video.com/live/live-assets/magic-live/img/head-en.9c63a12.png",
+        "text": "2. Brave Browser\n\nBrave for Android is a security- and privacy-focused browser, making it a good alternative to UC browser. Additionally, the Brave browser can automatically redirect unsecured pages to HTTPS using HTTPS Everywhere while also blocking ads and other trackers. Brave also has built-in data optimization techniques to minimize data consumption. Other features of Brave include, but are not limited to, private browsing, script blocking, third-party cookie blocking, etc.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://image-act.like-video.com/live/live-assets/magic-live/img/head-en.9c63a12.png",
+        "text": "6. Opera Mini\n\nOpera Mini is one of the oldest and most popular web browsers when it comes to fast web browsing on slow connections and reducing data consumption by compressing web pages and images. Opera Mini allows you to download online videos with just a single tap. Of course, Opera Mini has all the features you’d expect from a good web browser. Other features include smart downloads, tab gallery, ad blocker, night mode, etc.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://image-act.like-video.com/live/live-assets/magic-live/img/head-en.9c63a12.png",
+        "text": "3. Puffin Web Browser\n\nIf all you need is super-fast web browsing, then Puffin is the way to go. Compared to all other browsers in this list, Puffin seems to load web pages really quickly thanks to its in-house compression algorithm. Do keep in mind that this deep compression comes at a cost – when there are multiple tabs, Puffin eats up a lot of memory.\n\n",
+        "isNative": "true"
+      }
+    ]
+
+  }
+}
