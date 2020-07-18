@@ -5,11 +5,11 @@
     "AdsController": [
       {
         "NetworkAds": "admob",
-        "AdMobId": "pub-7188824427169138",
+        "AdMobId": "",
 
-        "BannerAdmob": "ca-app-pub-7188824427169138/4857219287",
-        "InterstitialAdmob": "ca-app-pub-7188824427169138/1473982829",
-        "NativeAdmob": "ca-app-pub-7188824427169138/3544137615",
+        "BannerAdmob": "",
+        "InterstitialAdmob": "",
+        "NativeAdmob": "",
 
         "BannerFacebook": "",
         "InterstitialFacebook": "",
@@ -20,24 +20,24 @@
 
     "items": [
       {
-        "title": "Gacha Club Start ",
-        "image": "https://www.pockettactics.com/wp-content/uploads/2020/07/gacha-club-download-900x506.jpg"
+        "title": "Mr. Meat",
+        "image": "https://cdn6.aptoide.com/imgs/3/d/c/3dc945cc8a580c5a6cf4b0ecccc3f6a6.png"
       },
       {
-        "title": "DOWNLOAD AND PLAY GACHA CLUB",
-        "image": "https://i.pinimg.com/originals/53/05/61/530561e92f1d2f0e393754c94ce75074.jpg"
+        "title": "Item Locations",
+        "image": "https://i.ytimg.com/vi/9FhCJJPrhI0/maxresdefault.jpg"
       },
       {
-        "title": "GACHA CLUB OUTFITS",
-        "image": "https://www.pockettactics.com/wp-content/uploads/2020/07/gacha-club-download.jpg"
+        "title": "Shotgun",
+        "image": "https://vignette.wikia.nocookie.net/mr-meat6971/images/e/e9/ShotgunMrMeat.jpg"
       },
       {
-        "title": "GACHA CLUB BLUESTACKS\n",
-        "image": "https://i0.wp.com/nerdschalk.com/wp-content/uploads/2020/07/screen-shot-2020-07-01-at-4-11-06-pm.png"
+        "title": "Tips and Tricks",
+        "image": "https://img.tamindir.com/2019/04/461997/mr-meat-horror-escape-room-2-800x599.jpg"
       },
       {
-        "title": "Gacha Club codes",
-        "image": "https://i.ytimg.com/vi/_gDAnZvHKJQ/hqdefault.jpg"
+        "title": "Player",
+        "image": "https://vignette.wikia.nocookie.net/mr-meat6971/images/6/62/PlayerMrMeatCan.jpg"
       }
     ],
 
@@ -50,7 +50,7 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "Gacha Club Start ",
+        "text": "Mr. Meat",
         "isNative": "false"
       },
       {
@@ -60,9 +60,20 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://www.pockettactics.com/wp-content/uploads/2020/07/gacha-club-download-900x506.jpg",
-        "text": "Looking for a guide on how to play Gacha Club? Once you have completed the Gacha Club download, chances are you’ll have lots of questions you want answered as the new mobile game can be a bit confusing. As such, we’d recommend doing some studying up beforehand so you can load into it well prepared.\n\n",
+        "image_link": "https://cdn6.aptoide.com/imgs/3/d/c/3dc945cc8a580c5a6cf4b0ecccc3f6a6.png",
+        "text": "Mr. Meat: Horror Escape Room is an indie horror video game developed by Kalipso Games and later bought by Keplerians Horror Games.\n\nThe game is currently on Version 1.8.2 released on March 22, 2020.\n\n",
         "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Gameplay",
+        "isNative": "false"
       },
       {
         "ordered": "image_text",
@@ -72,8 +83,19 @@
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "Gacha Club is partly about fashion. You create a host of chibi-style anime characters and dress them while deciding what their hairstyle should be and what weapons they’ll pose with. Once that’s done, you can enter a studio and add backgrounds and pets until you’ve got your ideal shot. Gacha Club is also about combat, too. There are more than 180 units you can send into battle and there are four different modes you can play, such as story mode and tower mode. You can also collect gems and gold to increase your power and take part in mini-games.\n\n",
+        "text": "Amelia Clark, a 28-year-old woman, disappeared at Mr. Meat Company 2 weeks ago. The Player drives his car to the place where she disappeared with a Shotgun. He has to rescue Amelia while avoid being hit by Mr. Meat and his pet at all cost within 3 nights.",
         "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Description",
+        "isNative": "false"
       },
       {
         "ordered": "image_text",
@@ -83,7 +105,7 @@
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "So, there’s certainly a lot going on here, but that’s where our how to play Gacha Club guide comes in. We’ll go over how to download it, what platforms it’s coming to, and some other helpful tricks to help you feel fully prepared. Now that’s out of the way, here’s how to play Gacha Club.\n\n",
+        "text": "The zombie plague arrived to your neighborhood! Your neighbor, the butcher, is a zombie hungry for blood. He has no soul and only wants to kill, to have blood and fresh meat to eat. He has become a serial killer and his house is a mix between a haunted house and a prison. This creepy zombie, known as Mr. Meat, is a serious criminal case. His new hostage? A girl. She is locked in this prison house that seems to be a haunted house. Death is after her, your scary zombie neighbor is going to slay her...if nobody avoid it. Your mission is to rescue her and save her life!\n\nHow to do it in this horror game adventure?\n\n★ The walking dead can hear your moves, use this to your advantage and hide to mislead him. If their eyes catch you, he'll try to kill you!\n\n★ Solve puzzles to rescue the girl alive from the house of the serial killer.\n\n★ Use the gun and be a sniper! Be the zombie catcher that this game needs! Action is guaranteed!\n\n★ Enjoy excellent ambiental sounds and graphics during your jail break!\n\nIf you want a realistic, creepy and scary sniper, zombie catcher experience, play now \"Mr Meat: Horror Escape Room\". Action, blood and fear assured!\n\nHeadphones are recommended for a full experience against the walking dead neighbor.\n\nIn each update new content will be available to solve this criminal case. We are open to suggestions by email or in the review section!",
         "isNative": "true"
       }
     ],
@@ -96,7 +118,7 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "DOWNLOAD AND PLAY GACHA CLUB",
+        "text": "General Spawning\n",
         "isNative": "false"
       },
       {
@@ -106,52 +128,8 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://i.pinimg.com/originals/53/05/61/530561e92f1d2f0e393754c94ce75074.jpg",
-        "text": "You can download Gacha Club on Android by heading to Google Play and searching it. The casual title came out June 30, so there’s nothing stopping you from playing it on your Android device.\n\n",
-        "isNative": "true"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
-        "gravity": "left",
-        "left": "5",
-        "text_size": "20",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
-        "text": "It hasn’t come to PC and iOS, yet, but it will be “soon“, according to developer Lunime. If you don’t want to wait, however, we go over how to get around that further down the guide.\n\n",
-        "isNative": "true"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
-        "gravity": "left",
-        "left": "5",
-        "text_size": "20",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://imag.malavida.com/mvimgbig/download-fs/gacha-club-28044-1.jpg",
-        "text": "Gacha Club has four different modes for you to play: Story, Tower, Training, and Shadows of Corruption. Fights play out in typical turn-based fashion, and competing in these modes will earn you coins and gems that you can use to buy units, pets, and other things.\n\n",
-        "isNative": "true"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
-        "gravity": "left",
-        "left": "5",
-        "text_size": "20",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
-        "text": "If you want something more casual, you can play mini-games for a currency called Byte, which in-turn can be spent on units specifically for these mini-games.\n\n",
-        "isNative": "true"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
-        "gravity": "left",
-        "left": "5",
-        "text_size": "20",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
-        "text": "When you’re not fighting in any of these modes, you can customise your team and even show them off when they are past level ten.\n\n",
+        "image_link": "https://i.ytimg.com/vi/9FhCJJPrhI0/maxresdefault.jpg",
+        "text": "These items are always put here.\n\nShotgun: at the beginning of the game, the Player has 1 cartridge to break the door.\nShotgun Cartridge: inside a bucket in the Shed.\nTranquilizer Gun: inside a case at the laboratory's first room.\nRound Key: inside the bathtub.\nPiece of wood: inside the car trunk.\nBlue Key: inside the Piece of wood.\nBlowtorch: on the shelf of the basement.\nRed Key: inside the safe.\nWooden Stake: inside one of the locked rooms. (only accessible if the Player gets hit)\nCans: in the house.\nVise: in the garage\nSnapshot: when the Player decided to take a picture of Mr. Meat experiments\nPhoto Camera: in the secret drawer\n",
         "isNative": "true"
       },
       {
@@ -162,7 +140,7 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "HOW TO GET GACHA CLUB CHARACTERS",
+        "text": "Items Locations\n",
         "isNative": "false"
       },
       {
@@ -173,7 +151,7 @@
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "To get more Gacha Club characters and units you’re going to need tickets. Thankfully, you can get ten of them for leaving a review of the game. Otherwise, you’ll need to put up the gold you’ve earnt for a chance of getting more tickets. To spend them, simply go to the gacha tab in the main menu.",
+        "text": "The following items can spawn in one of those places:\n\nPliers: Washing Machine (Laundry Room) - Garage Drawer - Bedroom 2 - Torture Room\nWire Cutters: Shed - Kitchen - Living Room 3rd Drawers\nGreen Key: Basement Table - Refrigerator\nCode: Shed - Kitchen Cabinet Door - Bedroom 1\nCar Key: Globe - Under Pizza Box - Hen House\nHammer: Garage - 3rd Drawers(upstairs) - Bedroom 2 Drawer\nGloves: Shed - Hen House\nSecret Drawer Key: 1st Drawer(Bedroom 2) - Drawer(Bedroom 2)",
         "isNative": "true"
       }
     ],
@@ -186,7 +164,7 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "GACHA CLUB OUTFITS",
+        "text": "Shotgun",
         "isNative": "false"
       },
       {
@@ -196,19 +174,8 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://www.pockettactics.com/wp-content/uploads/2020/07/gacha-club-download.jpg",
-        "text": "You can get a host of Gacha Club outfits in-game for free, so you can mess around until you stumble upon a look you like. New outfits will gradually make their way into the game as it gets older.\n\n",
-        "isNative": "true"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
-        "gravity": "left",
-        "left": "5",
-        "text_size": "20",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
-        "text": "Lunime also holds competitions where you can submit drawings that may become available in-game if you win. The first fashion competition has already come and gone, but you can keep tabs on the next one on the developer’s website.\n\n",
+        "image_link": "https://vignette.wikia.nocookie.net/mr-meat6971/images/1/1e/ShotgunHoldMrMeatNew.png",
+        "text": "The Shotgun is the Player's weapon carries along with him to break into the house.\nThe Player needs to load the Shotgun with a cartridge to use. Despite being the most powerful weapon in the game, the Player can use it for 4 times only without watching ads (the first cartridge in the beginning of the game used to break into the house and the others are inside the Shed).",
         "isNative": "true"
       },
       {
@@ -219,7 +186,7 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "IS GACHA CLUB COMING TO PC?\n",
+        "text": "Appearance",
         "isNative": "false"
       },
       {
@@ -230,7 +197,7 @@
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "Gacha Club will be coming to PC “soon”, according to Lunime. The developer reaffirmed this when the RPG game came to Android with a post of its Facebook page.\n\n “It might take a few hours to appear in your Google Play store to download depending on your country,” the post reads. “Apple iOS and PC versions coming soon!”\n\n",
+        "text": "The Shotgun seems to be based on a long single-barreled Winchester Model 1897.\n\n",
         "isNative": "true"
       },
       {
@@ -241,7 +208,7 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "IS GACHA CLUB COMING TO IOS?\n",
+        "text": "Uses\n",
         "isNative": "false"
       },
       {
@@ -252,7 +219,7 @@
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "Gacha Club will come to iOS eventually but we don’t have an exact release date just yet. Much like PC, the developer did confirm it was happening soon, but stopped short of saying when exactly.\n\n",
+        "text": "Breaking the glass on the door to enter Mr. Meat's house. Formerly, the Player had to shoot the doorknob.\nBreaking the glass to enter the basement of the house. However, this will alert Mr. Meat when the player jumps down into the basement, a heartbeat will occur.\nKnocking Mr. Meat out for a period of time. (Depends on the difficulty the Player chooses.)\nBreaking the safe's mirror.\nKilling the Pig.\n",
         "isNative": "true"
       }
     ],
@@ -265,7 +232,7 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "GACHA CLUB BLUESTACKS\n",
+        "text": "Ways to get in the house\n",
         "isNative": "false"
       },
       {
@@ -275,8 +242,8 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://i0.wp.com/nerdschalk.com/wp-content/uploads/2020/07/screen-shot-2020-07-01-at-4-11-06-pm.png",
-        "text": "If you don’t have access to an Android phone then you can download Bluestacks and play the new mobile game on your PC. Simply head to the website and hit the download button. Once you have the application up and running, you’ll be able to open the Google Play store through it on your PC to simply look it up and download it.\n\n",
+        "image_link": "https://img.tamindir.com/2019/04/461997/mr-meat-horror-escape-room-2-800x599.jpg",
+        "text": "To get into the house you need to:\n\nBreak the window in the door at the right side of the house.\nBreak the window in the back exterior place.\nTry the glitch enter the barn without the Green Key and use the refrigerator to get into the house.\n",
         "isNative": "true"
       },
       {
@@ -287,7 +254,7 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "GACHA CLUB UPTODOWN\n",
+        "text": "Uses of Items\n",
         "isNative": "false"
       },
       {
@@ -298,7 +265,7 @@
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "Gacha Club is also available to download on Uptodown if you’d prefer that to Google Play. The Android app won’t help you play the casual game on iOS, but it does offer a different avenue to fetch your download from on Android.\n\n",
+        "text": "General\nShotgun: Get into the house - Knock Mr. Meat down - Knock his pet pig down - Break the glass in bathroom.\nCan: Almost useless but they can prove to be useful in certain situations if you want to attract Mr. Meat to one area to go to another area, such as dropping a Can in the Torture Room and going to the Garage without Mr. Meat spotting you. The same can be done the other way around.\nTranquilizer Gun: Knock Mr Meat down - Stun his pet pig - Get the Blowtorch.\nGreen Key: Have access to the barn.\nBlowgun: Access the laboratory.\nGloves: Get the Round Key.\nHammer: Break the glass in bathroom - Break the security camera (optional).\nWooden Stake: Get out the locked room.\nPliers: Remove nails in the planks.\nWire Cutters: Cut electric wires.\nCar Key: Unlock the Car Trunk and get the Piece of Wood.\nPiece of Wood: Get the Blue Key.\nVice: To break the Piece of Wood.\n",
         "isNative": "true"
       },
       {
@@ -309,7 +276,7 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "GACHA CLUB APK\n",
+        "text": "Keys\n",
         "isNative": "false"
       },
       {
@@ -320,10 +287,31 @@
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "There aren’t many sites offering a Gacha Club APK right now, but, thankfully, APKPure is. So you can get a hold of it yourself by following the link.",
+        "text": "The following keys are used to open the room that holds Amelia Clark, the Player has to open all locks before he can rescue Amelia:\n\nRed Key\nBlue Key\nRound Key\nYellow Key\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Ways to get out of the locked rooms\n",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "If the Player gets hit by Mr. Meat, he will be locked inside one of the rooms in the barn area. There are 3 locked rooms in total. Keep in mind that the rooms in each night is randomly and the Player has to be very careful to get out of the lock rooms because the Pig is waiting outside.\n\nSecret Hole: Move the basket, then remove the bricks and crawl outside. This is the easiest locked room to escape because you can head towards the roof and the Pig is inside the barn area.\nWindow: Used the Wooden Stake to remove the window and jump outside. You must beware of the Pig because it can be nearby.\nRampaging Pig: Pull the pig food to lure the Pig to destroy the door and get out of the hole by crawling. You have to get out of the hole quickly otherwise you will be hit by the Pig.\n",
         "isNative": "true"
       }
-
     ],
     "content5": [
       {
@@ -334,7 +322,7 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "Gacha Club codes",
+        "text": "Player",
         "isNative": "false"
       },
       {
@@ -344,9 +332,20 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://i.ytimg.com/vi/_gDAnZvHKJQ/hqdefault.jpg",
-        "text": "Gacha Club codes will instantly grab your attention when you find out what they do. They promise free things such as currency that you can get without needing to spend a dime. That Gacha Club currency comes in handy, too, when you’re trying to gacha for specific items like more units.\n\n",
+        "image_link": "https://vignette.wikia.nocookie.net/mr-meat6971/images/6/62/PlayerMrMeatCan.jpg",
+        "text": "Although his face is never shown in any of his appearances, he can be seen as a thin tall white guy wearing blue jeans, white sneakers with blue socks and a green coat. He is most likely a man because of the grunts he makes when he gets knocked out.\n\n",
         "isNative": "true"
+      },
+      {
+      "ordered": "image_text",
+      "color": "#FFFFFF","style": "blood",
+      "gravity": "left",
+      "left": "10",
+      "text_size": "25",
+      "isLink": "false","link_title": "","setLink": "",
+      "image_link": "",
+      "text": "Mission",
+      "isNative": "false"
       },
       {
         "ordered": "image_text",
@@ -356,8 +355,19 @@
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "If you’ve been out of the loop, Gacha Club is partly about fashion and partly about combat. You build up a team of chibi-style anime characters and duke it out in fights to earn currency. With that, you can gacha for more items and characters, or units as they’re also called. When not in the heat of battle, you can show off your characters once they’re levelled up enough in various photoshoots, which is where the fashion part of Gacha Club comes into play.\n\n",
+        "text": "He has to break into Mr. Meat's house to rescue Amelia Clark by opening a lot of locks within 3 nights while avoids being hit at all cost otherwise he will be killed. If he successfully rescues Amelia Clark, they will escape together. The Player can also arrest Mr. Meat by calling the cops.\n\n",
         "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Identity",
+        "isNative": "false"
       },
 
       {
@@ -368,62 +378,7 @@
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "Getting a hold of Gacha Club codes certainly help in doing all of that, though it isn’t really explained how you use them. As such, we’re putting together this guide to help you out. Now that’s all out of the way, here’s how to use Gacha Club codes on your phone.\n\n",
-        "isNative": "true"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
-        "text": "HOW TO USE GACHA CLUB CODES\n",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
-        "gravity": "left",
-        "left": "5",
-        "text_size": "20",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
-        "text": "Getting a hold of Gacha Club codes certainly help in doing all of that, though it isn’t really explained how you use them. As such, we’re putting together this guide to help you out. Now that’s all out of the way, here’s how to use Gacha Club codes on your phone.\n\n",
-        "isNative": "true"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
-        "text": "HOW TO GET GACHA CLUB CODES\n",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
-        "gravity": "left",
-        "left": "5",
-        "text_size": "20",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
-        "text": "Gacha Club codes appear to be random, unfortunately, and unique to each user. So we can’t simply list them here. You can get one code for free, though, by opening the phone in your menu. If you look to the left of the phone, you should see a code alongside the text ‘code found’. For us, it was 604-735, but it may be different for you.\n\n",
-        "isNative": "true"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#FFFFFF","style": "blood",
-        "gravity": "left",
-        "left": "5",
-        "text_size": "20",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
-        "text": "Other codes are hidden throughout the game, so you’ll need to keep your eyes peeled for similar opportunities. If we find out anything else, though, we’ll be sure to update this guide with the new information.\n\n",
+        "text": "His true identity is still unknown but he is probably a detective, judging from the letter saying that Amelia's father can't wait for the police (this letter can be seen prior to version 1.2 of the game only).\n\n",
         "isNative": "true"
       }
     ]
