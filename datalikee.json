@@ -51,7 +51,7 @@
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
         "text": "Likee app",
-        "isNative": "true"
+        "isNative": "false"
       },
       {
         "ordered": "image_text",
@@ -75,7 +75,7 @@
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
         "text": "tips and tricks",
-        "isNative": "true"
+        "isNative": "false"
       },
       {
         "ordered": "image_text",
