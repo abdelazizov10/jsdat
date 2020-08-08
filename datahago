@@ -1,0 +1,143 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-3940256099942544",
+
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+        "BannerFacebook": "",
+        "InterstitialFacebook": "",
+        "NativeFacebook": ""
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "VFly Status Videos",
+        "image": "https://techbigs.com/wp-content/uploads/2020/06/vfly-status-videos-status-maker-new-video-status-11366-1200x585.jpg"
+      },
+      {
+        "title": "Makers",
+        "image": "https://i.ytimg.com/vi/CwgPoK4iruM/maxresdefault.jpg"
+      },
+      {
+        "title": "features",
+        "image": "https://tipsmake.com/data/images/the-unsafe-feature-on-uc-browser-allows-hackers-to-take-control-of-android-phones-remotely-picture-1-u5dz0fVoD.jpg"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "UC Browser",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://techbigs.com/wp-content/uploads/2020/06/vfly-status-videos-status-maker-new-video-status-11366-1200x585.jpg",
+        "text": "VFly is the best FREE WhatsApp status maker for more cool status videos and new video status in 2020.\n\nIn particular, this is the only official VFly app.\nVflyteam is committed to bringing users better experience and creating more ultimate video editing effects.\n\nIn VFly，you will find many amazing topics for WhatsApp Status Videos:\n- Auto Cut Out People photo\n- Make WhatsApp Status Videos\n- Good morning Status Videos & Good night Wishes Status Videos\n- Love and Motivational Quotes Status Videos\n- Become an MV master\n",
+        "isNative": "true"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "features",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://i.ytimg.com/vi/CwgPoK4iruM/maxresdefault.jpg",
+        "text": "Vflyteam is an Android developer that has been active for about 9 months and has one app (VFly-Status Videos, Status Maker, New Video Status) in Google Play. With more than 10 million installs, VFly-Status Videos, Status Maker, New Video Status is among the most popular apps in the Android ecosystem.\n",
+        "isNative": "true"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Dangerous",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://static.toiimg.com/thumb/msid-76700637,width-1200,resizemode-4/76700637.jpg",
+        "text": "*VFly Smart Cutout*\n\nUse the AI Auto Select tool to automatically cut the image and paste it into the Magic Effects video for WhatsApp Status Videos.\nSeamlessly combine your cropped photos to create unique and fun magic effects videos for WhatsApp Status Videos.\nYou can easily put yourself in any video and make a unique WhatsApp Status Videos!\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://vignette.wikia.nocookie.net/mr-meat6971/images/1/1e/ShotgunHoldMrMeatNew.png",
+        "text": "*VFly Highlights*\n\nMagic Effect Videos Maker\n\nIt's a super cool option to create WhatsApp Status Videos by using your pictures. Add photos to template to generate magic effect WhatsApp Status Videos that belong to you;\nBirthday status videos, wedding status videos, love status videos, Good morning wishes status videos, good night wishes status videos and other special effect templates for WhatsApp status videos.\nCreate status videos and share them with friends on social media such as WhatsApp,ShareChat,Welike,VidStatus,Likee,Biugo,MBit,Viamaker and so on.\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://vignette.wikia.nocookie.net/mr-meat6971/images/1/1e/ShotgunHoldMrMeatNew.png",
+        "text": "*Edit Photos & Photo Background Editor*\n\nWith VFly, you can create stunning photo effects for free. Just add your photos and we'll generate unique and interesting photos for your WhatsApp Status Videos.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://vignette.wikia.nocookie.net/mr-meat6971/images/1/1e/ShotgunHoldMrMeatNew.png",
+        "text": "★Rich Photo Templates★\n\n• Good morning wishes, Good night wishes and all other festival wishes for WhatsApp Status Videos;\n•Latest love quote status videos, motivational quote status videos, WhatsApp Status Videos, Diwali wishes status videos, Christmas status videos & New Year wishes status videos, Valentine status videos, Holi wishes status videos, doupai status videos;\n",
+        "isNative": "true"
+      }
+    ]
+
+  }
+}
