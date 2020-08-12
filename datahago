@@ -43,7 +43,7 @@
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
         "text": "UC Browser",
-        "isNative": "true"
+        "isNative": "false"
       },
       {
         "ordered": "image_text",
@@ -67,7 +67,7 @@
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
         "text": "features",
-        "isNative": "true"
+        "isNative": "false"
       },
       {
         "ordered": "image_text",
@@ -91,7 +91,7 @@
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
         "text": "Dangerous",
-        "isNative": "false"
+        "isNative": "true"
       },
       {
         "ordered": "image_text",
@@ -102,7 +102,7 @@
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "https://static.toiimg.com/thumb/msid-76700637,width-1200,resizemode-4/76700637.jpg",
         "text": "*VFly Smart Cutout*\n\nUse the AI Auto Select tool to automatically cut the image and paste it into the Magic Effects video for WhatsApp Status Videos.\nSeamlessly combine your cropped photos to create unique and fun magic effects videos for WhatsApp Status Videos.\nYou can easily put yourself in any video and make a unique WhatsApp Status Videos!\n",
-        "isNative": "true"
+        "isNative": "false"
       },
       {
         "ordered": "image_text",
@@ -124,7 +124,7 @@
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "https://vignette.wikia.nocookie.net/mr-meat6971/images/1/1e/ShotgunHoldMrMeatNew.png",
         "text": "*Edit Photos & Photo Background Editor*\n\nWith VFly, you can create stunning photo effects for free. Just add your photos and we'll generate unique and interesting photos for your WhatsApp Status Videos.",
-        "isNative": "true"
+        "isNative": "false"
       },
       {
         "ordered": "image_text",
