@@ -1,0 +1,154 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-1516708694897738",
+
+        "BannerAdmob": "ca-app-pub-1516708694897738/6655629490",
+        "InterstitialAdmob": "ca-app-pub-1516708694897738/6017335246",
+        "NativeAdmob": "ca-app-pub-1516708694897738/7777139475",
+
+        "BannerFacebook": "",
+        "InterstitialFacebook": "",
+        "NativeFacebook": ""
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "zili app",
+        "image": "https://i.ytimg.com/vi/Nmc7yYyn9x8/maxresdefault.jpg"
+      },
+      {
+        "title": "Zili banned in India?",
+        "image": "https://latestnews.fresherslive.com/images/articles/origin/2020/07/03/zili-app-is-from-which-country-heres-what-you-need-to-know-5eff3b0601c28-1593785094.jpg"
+      },
+      {
+        "title": "How to Share Videos on Zili App",
+        "image": "https://1.bp.blogspot.com/-n3uGRxoH7lM/XnXxECFmgJI/AAAAAAAADCU/DNSvZaNMZN0fBfquKIIP5EAeexO6R5aSQCEwYBhgL/s640/Screenshot_20200320-171230.png"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "zili app",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://i.ytimg.com/vi/Nmc7yYyn9x8/maxresdefault.jpg",
+        "text": "Zili App - funny videos app, is a free short video application that allows users to access extensive editing tools and features like puzzle videos, boomerangs, and online content creation superzooms. These editing tools are designed to help users quickly create images.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "The country of origin for Zili 's app is China. In 2019 a Chinese-based tech company, Xiaomi, formally launched the Chinese app to compete head-to-head with Bytedance's TikTok. The app became popular in 2019 in Google Play Store's \"Entertainment\" section for delivering funny videos. Lei Jun, CEO of the Xiaomi tech company responsible for the development of the Zili Funny video app, launched this application to make colorful every day. The app has 10 million downloads on the Play store worldwide.\n\n",
+        "isNative": "true"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://latestnews.fresherslive.com/images/articles/origin/2020/07/03/zili-app-is-from-which-country-heres-what-you-need-to-know-5eff3b0601c28-1593785094.jpg",
+        "text": "Zili banned in India?",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "As of Monday, i.e., 59 Chinese apps are prohibited in India. Ministry of Home Affairs 29 June 2020. However, the country is currently not banning MI's Zili app.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "The list of Chinese applications was recommended to the Government by the Indian Intelligence Agencies. Nonetheless, the 59 Chinese apps banned by the government have allegedly jeopardized user data and privacy protection, and this was a bid to safeguard the Indian Cyberspace and the privacy of multiple users.\n\n",
+        "isNative": "true"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "why is hago the best",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://1.bp.blogspot.com/-n3uGRxoH7lM/XnXxECFmgJI/AAAAAAAADCU/DNSvZaNMZN0fBfquKIIP5EAeexO6R5aSQCEwYBhgL/s640/Screenshot_20200320-171230.png",
+        "text": "To share videos on Zili App, follow the steps provided below.\n\nInteraction - Like those videos that will make you laugh the most. Follow just one tap of the most creative creators, and you will get alert whenever funny stories happen. \n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Shoot and post - Zili App has a versatile collection of special effects, background music, tools for text editing, stickers, and filters to make your videos truly unique.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Share - To save your creation, just tap a button and share it with WhatsApp, Facebook, Instagram, Snapchat, and other social media platforms. \n\n",
+        "isNative": "true"
+      }
+    ]
+
+  }
+}
