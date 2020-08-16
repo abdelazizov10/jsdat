@@ -1,0 +1,197 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "",
+
+        "BannerAdmob": "",
+        "InterstitialAdmob": "",
+        "NativeAdmob": "",
+
+        "BannerFacebook": "",
+        "InterstitialFacebook": "",
+        "NativeFacebook": ""
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "Long Horse",
+        "image": "https://i.ytimg.com/vi/tspcVXhIRR0/maxresdefault.jpg"
+      },
+      {
+        "title": "Appearance",
+        "image": "https://i.ytimg.com/vi/7U7mgQFtY0A/maxresdefault.jpg"
+      },
+      {
+        "title": "History",
+        "image": "https://pbs.twimg.com/media/Do1_vAfUcAEOHVS.jpg"
+      },
+      {
+        "title": "Personality",
+        "image": "https://i.redd.it/9ogh5ec8grr41.jpg"
+      },
+      {
+        "title": "Abilities",
+        "image": "https://i.redd.it/zt2bz306de631.jpg"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Long Horse",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://usercontent1.hubstatic.com/8037694.jpg",
+        "text": "\n“\tI had that dream again, about the horse on the stairs.\t„\n~ A Tumblr caption about Long Horse.\t\n“\tEvery night, it curved into his dreams, folding into view from around impossible corners, one gaping socket always on him as it silently glided. He thought putting some distance between the thing he’d found in the attic and himself might help, but no, it met him on the road.\t„\n~ Another caption about Long Horse.\t\nLong Horse is a heroic Internet-Urban Legend creature created by Trevor Henderson that originates from 2018.\n\n",
+        "isNative": "true"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Appearance",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://i.ytimg.com/vi/7U7mgQFtY0A/maxresdefault.jpg",
+        "text": "Long Horse appears to be a creature that has a horse skull without a jaw for a head. Its pale neck made of pliable skin appears to be infinitely long with some pieces of a black mane hanging all over the neck. It also creates cracking noises when bending its neck, which bends like a finger, allowing it to create as few or as many joints as possible. Its neck doesn’t have to connect in linear space due to its properties. Interestingly, Long Horse is said to smell like cinnamon.\n\n",
+        "isNative": "true"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "History",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://pbs.twimg.com/media/Do1_vAfUcAEOHVS.jpg",
+        "text": "Long Horse was established as a legend when a picture of the creature started spreading over the Internet since 24th August 2018, when a user named Trevor Henderson published a picture showing Long Horse, with the description that the user had a dream of the horse beforehand.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "text": "Future on, another picture has been released of the creature by Trevor, where it appears to be in the suburbs, and he named the creature Long Horse. An ancient cave painting has also been found of the Long Horse around three humans, and in the description it is revealed that Long Horse has been around since ancient times.  \n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "text": "Interestingly enough, the ancient drawing depicts that Long Horse is the humans' protectors. He is purely harmless, and his goal is to warn humans of upcoming dangers. If a human hears a neck crack or sees the long neck of the creature, the message is that a disaster will occur, not because of Long Horse, but because of what will happen later on.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "text": "One more picture of Long Horse has been posted. It simply says, “a new sighting. he’s on the move”, meaning Long Horse is most likely going somewhere to warn the people in that area of an upcoming disaster.\n\n",
+        "isNative": "true"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Personality",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://i.redd.it/9ogh5ec8grr41.jpg",
+        "text": "Not much is known about Long Horse’s personality. However, as mentioned before, it is known that he cares about humans, serving as their protector and warning them of disasters. He is also mentioned several times to have a curious nature, but exactly how he displays his curiosity is currently unknown. According to small quips made by Trevor, Long Horse enjoys, but most likely does not require, offerings such as apples and affection.\n\n",
+        "isNative": "true"
+      }
+    ],
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Abilities",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://i.redd.it/zt2bz306de631.jpg",
+        "text": "Long Horse is able to foretell disasters and teleport, and he uses these abilities to warn others. He is able to break physics due to the infinite nature of his neck, and he can defy gravity and seemingly levitate. He can contort his body and adjust the number of joints in his neck, and the neck doesn’t have to connect in linear space. Long Horse can enter people’s dreams, and Trevor once mentioned that if someone were to stare at Long Horse’s neck for a while without looking away, it would eventually crumble into dust, which would most likely not affect Long Horse due to his paranormal nature. He can also give off the smell of cinnamon.\n\n",
+        "isNative": "true"
+      }
+    ]
+
+
+  }
+}
