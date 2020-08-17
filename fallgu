@@ -1,0 +1,217 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "",
+
+        "BannerAdmob": "",
+        "InterstitialAdmob": "",
+        "NativeAdmob": "",
+
+        "BannerFacebook": "",
+        "InterstitialFacebook": "",
+        "NativeFacebook": ""
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "What is Fall Guys: Ultimate Knockout?\n",
+        "image": "https://multiplayer.net-cdn.it/thumbs/images/2020/08/05/fall-guys-1_jpg_1024x768_crop_upscale_q85.jpg"
+      },
+      {
+        "title": "Is Fall Guys safe?\n",
+        "image": "https://www.eneba.com/blog/wp-content/uploads/2020/08/Fall-Guys.jpg"
+      },
+      {
+        "title": "What platforms is Fall Guys available for?\n",
+        "image": "https://specials-images.forbesimg.com/imageserve/5f1da35d85aaecb5d515079f/960x0.jpg?fit=scale"
+      },
+      {
+        "title": "Fall Guys tips and tricks\n",
+        "image": "https://i.ytimg.com/vi/Uz6ExUtzHio/maxresdefault.jpg"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Bridge Worms",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://multiplayer.net-cdn.it/thumbs/images/2020/08/05/fall-guys-1_jpg_1024x768_crop_upscale_q85.jpg",
+        "text": "Fall Guys is a fun and friendly, multiplayer online battle royale-style game for young and old. It seems to be loosely based on TV shows like Takeshi's Castle and Total Wipeout, where the object is to navigate obstacles or survive long enough in mini-games in order to qualify for later levels.\n\nIt starts with up to 60 online players on level one, with a number of players being eliminated each round until a final level with only a handful competiting to be the overall winner.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Winning awards crowns, which can be then traded for ultra rare costume items or emotes, while every other competitor also earns in-game currency (Kudos) which can be swapped for other costumes, etc. The futher you get in the game, the more Kudos you receive.\n\nThere are also experience points awarded, which give you extra items and skins as you level up.\n\nThe game runs on seasons, with new items and awards being refreshed once over. You also get the choice of different colour schemes for your Fall Guy, costumes or emotes every 24 hours.\n\n",
+        "isNative": "true"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Biography",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://www.eneba.com/blog/wp-content/uploads/2020/08/Fall-Guys.jpg",
+        "text": "One huge benefit to Fall Guys is that it is suitable for all age groups. It has  PEGI 3 rating and no way to communicate inside the game apart from cute emote animations.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Experienced players can all communicate through the PS4 Party Chat function (for example), but if a kid is playing, they will have a safe environment to do so, with little toxic behaviour in-game.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "This is meant to be fun, rather than overly competitive. Even when you fail to qualify, you can start a new round almost instantly.\n\n",
+        "isNative": "true"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Description",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://specials-images.forbesimg.com/imageserve/5f1da35d85aaecb5d515079f/960x0.jpg?fit=scale",
+        "text": "Fall Guys is currently available for PlayStation 4 and PC (through Steam). There is talk about releasing versions for Nintendo Switch, Xbox One and even mobile, but no confirmed plans as yet.\n\n",
+        "isNative": "true"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Fall Guys tips and tricks",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://i.ytimg.com/vi/Uz6ExUtzHio/maxresdefault.jpg",
+        "text": "Fall Guys levels are split into four categories: race, survival, team and final.\n\nThere were 24 levels launched on day one, with another added with the games first major patch in August. Here are those levels and tips on how to qualify/win in each.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "text": "Race",
+        "text": "Dizzy Heights\n\nThis is a simple race level with spinning platforms to leap onto. The best tip we can give here is make sure you leap just before the \"bumper\" at the edge of each disc, so that momentum takes you onto the next.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "text": "Door Dash\n\n",
+        "text": "One of our favourite levels. You have to bash through doors, but some of them are fake and you just bounce off them. The best tip here, therefore, is to avoid blindy running at doors and hang back a few beats in order to let other hapless fools find out the right path to take. Also, don't jump through the doors, dive instead. That way you won't be bashed by other players jumping and are more likely to be flung forwards than back.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "text": "Fruit Chute\n\n",
+        "text": "Like many of the race games, this is fairly simple. Just avoid the giant fruit cascading down the mountain. Our tip is to stay fairly central and jump over the rolling log when needed - that seems to have worked most often for us.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "text": "Gate Crash\n\n",
+        "text": "Gate Crash is different to door dash as the gates move up and down, so timing is key. Again, it's a race to the end but you have to ensure you don't get stuck behind gates for long. It's also worth noting that some gates move more slowly than the others, so keep away from those. And don't forget to jump at the end of the slime slide to get through the last gate - there's a hole you fall down otherwise.\n\n",
+        "isNative": "true"
+      }
+
+    ]
+
+
+  }
+}
