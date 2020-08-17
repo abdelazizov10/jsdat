@@ -1,0 +1,236 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "",
+
+        "BannerAdmob": "",
+        "InterstitialAdmob": "",
+        "NativeAdmob": "",
+
+        "BannerFacebook": "",
+        "InterstitialFacebook": "",
+        "NativeFacebook": ""
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "Bridge Worms",
+        "image": "https://vignette.wikia.nocookie.net/villains/images/2/2e/A5B24FD0-AB5E-4545-A0D0-66F68E7EE2B6.jpg"
+      },
+      {
+        "title": "Biography",
+        "image": "https://pbs.twimg.com/media/EVrIrnrUYAATMkP.jpg"
+      },
+      {
+        "title": "Description",
+        "image": "https://pbs.twimg.com/media/EB-rlEWXYAAltrb.jpg"
+      },
+      {
+        "title": "Trivia",
+        "image": "https://mforum.ist/data/xfmg/thumbnail/23/23586-84a76c78f3960de0675b8f382091bb62.jpg"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Bridge Worms",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://vignette.wikia.nocookie.net/villains/images/2/2e/A5B24FD0-AB5E-4545-A0D0-66F68E7EE2B6.jpg",
+        "text": "“\tThe Bridge Worm will sometimes venture far from its nest if prey is hard to come by, instinctually hunting at night and in abandoned areas to avoid discovery. Photo below: The adolescent Bridge Worm folds back its false face as it prepares to feed.\t„\n~ A Tumblr caption explaining on how the Bridge Worms hunt their victims.\t",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://usercontent1.hubstatic.com/8037694.jpg",
+        "text": "The Bridge Worms are internet urban legend creatures that were created by the Canadian horror artist, Trevor Henderson as part of the Trevor Henderson Mythos. As their name implies, the Bridge Worms tend to lair beneath bridges and other overpasses. They are known for using fake faces to lure their prey and then eat them when it was too late.\n\n",
+        "isNative": "true"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Biography",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://pbs.twimg.com/media/EVrIrnrUYAATMkP.jpg",
+        "text": "The known history of the Bridge Worms started off when a photo of a big creature inside of a tunnel under a bridge started spreading on the internet. In the photo, a large white creature with a sad face, laying on the ground, with its hands and its white face visible is physically seen. People started speculating on the creature, until a drawing of the creature started spreading on the internet, on which it is written \"Bridge Worm\", giving the creature its name. In the drawing, it is suggested that the Bridge Worm has a false face and that underneath its innocent-looking white face, hides its much more sinister real face (as shown in their infobox).\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Further on, a photographer by the name Thomas Pearong has been missing for a while. Later on, his final photo was found. In the photo, the real face of the Bridge Worm is revealed to the public, which appears to be a fleshy-muscular sharp-toothed creature. The Bridge Worm ended up possibly consuming the photographer. Trevor said that the camera was found in a pile of acidic fecal matter which was intermingled with the remains of the photographer. Once the news broke, the question of what the Bridge Worm is started to spread.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "People started describing the Bridge Worm as a hostile creature that acts like a spider, which is very dangerous. It would always be in the same location, waiting for its next victim. Once the victim arrives, the Bridge Worm would jump out from its location and instantly murder and consume the victim. Trevor has stated that the Bridge Worm will sometimes venture far from its nest if it cannot find prey and it will usually hunt at night and in abandoned places to avoid being discovered during its hunt.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Theories started spreading that the Bridge Worm will one day get out from its location and start finding victims at an alarming rate. It is also confirmed that the Bridge Worm photo taken by Pearcing shows a teenage version of the Worm, leading to the question of what the adult Bridge Worm is like. An old photo of one of the Giants jumping on a road is heavily implied to be the adult version of the Bridge Worm, though it does lack several features such as the arms and defined face seen in Trevor's new illustration of an adult Bridge Worm. It is possible that Bridge Worms take different forms, lose certain features as part of their aging process, or that this giant may be a subspecies.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "An artwork of the Bridge Worm with a larger, longer and buffer appearance and a more defined-looking face has been posted by Trevor on Twitter. He comments that the facial markings of the Worm's false face become more defined to assist in hunting as they get older, confirming that the artwork is of an adult Bridge Worm. On Twitter, he has revealed several more details about the biology of the Bridge Worms. In earlier stages of their lifecycle, they can move from bridge to bridge, until they adhere. If they cannot find prey, many shrivel up most likely due to hunger, but some are strong enough to migrate someplace else. When it is a 3–4 foot long baby, its arms and false face are not developed yet. Younger Bridge Worms' eyes cannot focus properly yet, as shown by the outward-facing pupils, though it doesn't need sight to live off of passing prey due to its false face that lures them in. As it gets bigger and hungrier though, its eyes slowly become more developed, allowing it to stare at its prey as it devours them alive.\n\n",
+        "isNative": "true"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Description",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://pbs.twimg.com/media/EB-rlEWXYAAltrb.jpg",
+        "text": "The Bridge Worm is a long scary-like entity that is known for hiding under long interstate highway bridges. However, it has been found to hide under small bridges, supposedly using a safe house tactic to travel long distances without being spotted (However this claim has no evidence of being true). The entities' arms are long, at a recorded distance of 9 feet. It has bone-like fingers, similar to humans but is far more flexible. It has two sets, one at the back and one at the front. It can be female.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "text": "Archaeologists are finding possible remains of The Bridge Worm (However these findings are extremely unlikely as hieroglyphics or anything that contains information or pictures of The Bridge Worm have not been found.)\n\nThe real species name is a \"Sweaveryer\" but most call them a Bridge Worm. It is named Weaveryer because in the name itself it sounds like it could sliver and wiggle around and bounce like how they move.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "text": "It uses a flap of flesh to trick prey (humans and small animals, but seen to prey on deer and ox) which has a fake 'face' that has small, black, tiny slits for it's 'eyes' and a small, but neutral facial expression 'mouth', which makes it approachable. Underneath the flap, it reveals a horrific grin on its face with 36 human-like teeth. The nose is similar to a human's underneath the skin, proving the fact that the flap is its skin. The tissue on The Bridge Worm's 'real face' is cellular near-identical to humans, but has some flaws. The eyes of The Bridge Worms are extremely misaligned and disorienting as they bounce around while running. Usually, this flap goes up when chasing someone (presumably due to the wind of running 25 kph but there is evidence that proves otherwise). It eats its prey, usually by crushing the preys' skull and spine before ripping said prey in half and is licked up with its tongue. It has a running speed at approximately 25 kilometers per hour, and it has incredible endurance and lengths traveled while running has reached over 125 kilometers before resting/giving up on prey. Safe distances from The Bridge Worm range from 30 to 50 feet depending on how hungry it is. Recommended distances are 40 to 50 feet away from the Bridge Worm.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "text": "In adult form, they become Highway Worms.\n\n\"Whether or not The Bridge Worm can be captured and/or terminated is unknown. Best to stay away from what you cannot recognize rather than approach the depths of the mysterious.\"\n-UNKNOWN, RECOVERED RECORDING FROM A MINIATURE POCKET CAMERA *logo sticker over withered.*\n\n\"The bridge worm will sometimes venture far from its nest if the prey is hard to come by, instinctually hunting at night and in abandoned areas to avoid discovery. The photo below: The adolescent bridge worm folds back its false face as it prepares to feed. RIP Photographer Tomas Piercing, missing and presumed dead. The scientific community thanks you for your service.\"\n\n",
+        "isNative": "true"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Trivia",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://mforum.ist/data/xfmg/thumbnail/23/23586-84a76c78f3960de0675b8f382091bb62.jpg",
+        "text": "The Bridge Worms were created by Trevor Henderson, who is known for making various bizarre creatures over the internet. His other creations include Siren Head, Cartoon Cat, the Country Road Creature, the Man with the Upside-Down Face, the Smile Room, the Good Boy, the Lamb, the Man in the Red Room, the Fetid King, the Giants and Long Horse.\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "On Twitter, Trevor Henderson posted an artwork of the Bridge Worm with a larger, longer and buffer appearance, calling it the \"patron saint of dark places, of hungry life, of spotless bones\". On the same post, he comments that the false face's markings become more defined to assist the Bridge Worm in hunting as they get older with more exposure to people, suggesting that the artwork is of an adult Bridge Worm.\n",
+        "isNative": "true"
+      }
+
+    ]
+
+
+  }
+}
