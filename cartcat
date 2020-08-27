@@ -1,0 +1,160 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "",
+
+        "BannerAdmob": "",
+        "InterstitialAdmob": "",
+        "NativeAdmob": "",
+
+        "BannerFacebook": "",
+        "InterstitialFacebook": "",
+        "NativeFacebook": ""
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "Story 1",
+        "image": "https://vignette.wikia.nocookie.net/creepypastatoo/images/3/3b/Cartoon_cat.jpg"
+      },
+      {
+        "title": "Story 2",
+        "image": "https://vignette.wikia.nocookie.net/creepypastatoo/images/d/dd/They%27re_just_like_your_favourite_cartoon.jpg"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Story 1",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://vignette.wikia.nocookie.net/creepypastatoo/images/3/3b/Cartoon_cat.jpg",
+        "text": "Okay, I don't know exactly how to start this off, but I won't trust an abandoned place ever again. We were sent to explore an abandoned warehouse, because there were reports of people going missing around there. There were three other people in the group, let's just call them John, Paul, and James. Anyways, I don't know why we weren't sent in the day, that would’ve been much easier. But apparently we had to be sent in the evening, because that's when most disappearances happened. It was getting late, we had to go in, although nervous. All we saw were some boxes and damaged walls, there was even dark brown stains on the walls, we had no idea what it was. “You ever feel like you might be being watched?” Paul said, anxious. “Yeah, we should get out of here, this place is starting to creep me out and I don't know why.” James noted. “It's just because it's dark, that's all. When it's night, your imagination is more active.” That might be true, but a chill went down my spine as I got the same feeling.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "An old TV we didn't even notice clicked on. Static for a split second, and then a cartoon that looked like it was from the 1940s or something, and I swear outside I could see half of the character's face, with a long, stretched, black arm grasping onto the wall with a white glove with the three black lines that we all know and love. But I brushed it off because as soon as I looked away, it was gone. John was paying close attention to the cartoon, how it didn't blink very often, how it was almost always watching the camera as if it knew we were behind the screen. James started to get the tune of the cartoon stuck in his head, he started humming it, occasionally saying out loud “Da ba dee da da da dow..” though none of us really knew what the lyrics really meant, or even what they were.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "It suddenly changed to static for a split second again, then another cartoon started playing. It looked like an early version of Tom & Jerry. The cat was chasing the mouse around in circles, but then stopped, and hit the mouse on the head with a hammer that you'd see in that hit the mole game. Then james swore he felt a wooden object, cylindrical and big, just like the hammer in the cartoon, strike the back of his head. We got slightly unnerved.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "“M-Maybe it's a coincidence..?” Paul remarked. Then a black and furry arm stretched in, ending with a white glove. We all turned around, to see a face, just like Felix the Cat, staring back at us, except it wasn't Felix. It was an evil presence completely. The teeth were visibly dirty, and dripping with blood. The eyes were lined with pink on the edges. The TV switched to the cat grabbing the mouse, and the monster we saw in front of us spiraled its arm towards John, and picked him up by his hoodie. It laughed in the most villainous laugh I’d ever heard.\n\n",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "The rest of us tried to run, but the cat’s other arm wrapped around the warehouse, blocking us from getting out. Then another hand stretched out and ripped John in half. It was the most traumatizing thing I've seen, and I have seen some of the scariest things at my job. I had to watch my other friends get their limbs torn off, I tried to save one, but it only caused more pain as their bones splintered like wood. The cartoon cat spoke, “You're next,” and I ran, I slid under the arm and ran as fast as I could. I managed to escape before its stretched arm could grab me. Years later, I still get the feeling that it’s watching me... following me everywhere I go..\n\n",
+        "isNative": "true"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Story 2",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://vignette.wikia.nocookie.net/creepypastatoo/images/d/dd/They%27re_just_like_your_favourite_cartoon.jpg",
+        "text": "A little girl,Gracie,was innocent.She didn't deserve the fate she got.We let her wonder in the woods as long as she called us every 5 minutes and to leave markings in her path.We never thought it would cause her death.She called us,saying she found an abandoned mall and asked if she could check it out.We said no,but you know how little kids are.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "She went and found dry blood marks and weird shadows resembling a deformed cat and dog.She never called us back,so we called the police.They came to check it out and supposedly found a horrific sight,little Gracie was ripped apart,face torn off,parts of her eaten.When they left,I went in,wanted to find the sick bastard who did this to my sister.I noticed blood marks,the smell of rotten flesh.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "And weird shadows of deformed cats and dogs.I found Gracie's phone and picked it up,checking the images.She took a picture of....a thing.....a humanoid cat thing that resembled an old 1920s cartoon.Thats when I heard something behind me \"THE HELLS THERE?!\" I yelled,turned around.There was a deformed...dog...if I can call it that.It growled and lunged at me,taking a bite out of my shoulder.I screaming and hit the beast with my flashlight.I ran,feeling my bitten arm peeling off by the second.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "I hear something chase me,heavy breathing.I stopped at a dead end.I looked behind me,seeing that.....cartoon cat.....He grinned and spoke in a voice that sounded like it was coming from a radio \"Awwww,dont run,dont cha wanna see your sister?\"It lunged at me,grabbing my neck.His tight grippened.His arm looked like it was extending as it slammed me into the wall multiple times.I saw the life leave my eyes.Hello Gracie...I'm sorry I didnt protect you...",
+        "isNative": "true"
+      }
+    ],
+
+
+  }
+}
