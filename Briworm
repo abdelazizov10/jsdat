@@ -7,9 +7,9 @@
         "NetworkAds": "admob",
         "AdMobId": "",
 
-        "BannerAdmob": "ca-app-pub-7053168645068504/5731184777",
-        "InterstitialAdmob": "ca-app-pub-7053168645068504/1791939766",
-        "NativeAdmob": "ca-app-pub-7053168645068504/4226531410",
+        "BannerAdmob": "",
+        "InterstitialAdmob": "",
+        "NativeAdmob": "",
 
         "BannerFacebook": "",
         "InterstitialFacebook": "",
