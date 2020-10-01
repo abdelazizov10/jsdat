@@ -1,0 +1,19 @@
+[
+   {
+       "Name":"app1",
+       "Description":"get it now",
+       "IconUrl":"https://i.imgur.com/dd19XuL.png"
+   },
+
+   {
+       "Name":"app2",
+       "Description":"get it now",
+       "IconUrl":"https://i.imgur.com/onsbg9v.png"
+   },
+
+   {
+       "Name":"app3",
+       "Description":"get it now",
+       "IconUrl":"https://i.imgur.com/wLkz3TV.png"
+   }
+]
