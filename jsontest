@@ -1,14 +1,14 @@
 [
    {
        "Name":"app1",
-       "Description":"get it now",
+       "Description":"",
        "IconUrl":"https://i.imgur.com/dd19XuL.png",
        "GameUrl":"https://play.google.com/store/apps/details?id=com.nameart.hert.pro.art.name"
    },
 
    {
        "Name":"app2",
-       "Description":"get it now",
+       "Description":"",
        "IconUrl":"https://i.imgur.com/onsbg9v.png",
        "GameUrl":"https://play.google.com/store/apps/details?id=co.hotplate.instalogo.lite"
 
@@ -16,7 +16,7 @@
 
    {
        "Name":"app3",
-       "Description":"get it now",
+       "Description":"",
        "IconUrl":"https://i.imgur.com/wLkz3TV.png",
        "GameUrl":"https://play.google.com/store/apps/details?id=com.pearlmountainsoft.designevo.android"
    }
