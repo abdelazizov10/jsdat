@@ -16,7 +16,19 @@
                   {
       
                   "Name":"Tip Title test2",      
-                  "ImageURL":"https://c4.wallpaperflare.com/wallpaper/745/6/536/valorant-jett-valorant-hd-wallpaper-preview.jpg"    
+                  "ImageURL":"https://cdn.wallpapersafari.com/40/20/Thlj1H.jpg"
+                  "There are two types of arrays in Unity, builtin arrays and normal Javascript Arrays. Builtin arrays (native .NET arrays), are extremely fast and efficient but they can not be resized."
+
+                  },
+                                    
+                  {
+      
+                  "Name":"Tip Title test2",      
+                  "ImageURL":"https://img.gurugamer.com/resize/740x-/2020/06/13/freefire-1-4a75.png"
+                  "Content":"They are statically typed which allows them to be edited in the inspector. Here is a basic example of how you can use builtin arrays:
+"
+
                   }
+
       ]
       
