@@ -14,6 +14,8 @@
                    "Fanbanner":"2936791533275018_2936792136608291",
                    "Faninter":"2936791533275018_2936792569941581",
                    "Ironsource":"104c21dc1" 
+                   "IronBanner":"DefaultBanner",
+                   "IronInter":"DefaultInterstitial"
                    },
                     {
                    "adMobAppID":"ca-app-pub-2056631108745418~9127234450",
