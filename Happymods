@@ -1,4 +1,15 @@
 [
+     {
+      "adMobAppID":"ca-app-pub-3940256099942544~3347511713",
+      "banner":"ca-app-pub-3940256099942544/6300978111",
+      "inter":"ca-app-pub-3940256099942544/1033173712",
+      "Fanbanner":"551971905992703_551972079326019",
+      "Faninter":"551971905992703_551972412659319",
+      "Ironsource":"104c21dc1", 
+      "IronBanner":"DefaultBanner",
+      "IronInter":"DefaultInterstitial"
+   },
+   
    {
       "Name":"Download HappyMod on Android",
       "ImageURL":"https://www.androidheadlines.com/wp-content/uploads/2021/02/HappyMod-1.webp",
