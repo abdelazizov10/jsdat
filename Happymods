@@ -11,23 +11,19 @@
    },
    
    {
-      "Name":"Download HappyMod on Android",
       "ImageURL":"https://www.androidheadlines.com/wp-content/uploads/2021/02/HappyMod-1.webp",
       "Content":"1-Open the HappyMod download page and download the Happymod APK file"
    },
    {
-      "Name":"How Does HappyMod Works",
       "ImageURL":"https://twitgoo.com/wp-content/uploads/2020/12/happymod-getdroidtips.jpg",
       "Content":"2-Now go into your Android Settings and into your Privacy or Security settings"
    },
    {
-      "Name":"How to Update HappyMod App",
       "ImageURL":"https://www.xda-developers.com/files/2019/07/Happy_Mod_1-810x298_c.jpg",
       "Content":"3-Find the option to Allow from Unknown Sources and enable it"
    },
    
    {
-      "Name":"HappyMod Features",
       "ImageURL":"https://www.modapkdown.com/static/img/new-2.jpg",
       "Content":"4-Go to your device downloads folder and tap the APK file,then Follow the directions on the screen and wait "
 
@@ -56,5 +52,22 @@
    {
       "ImageURL":"https://www.modapkdown.com/static/img/new-2.jpg",
       "Content":"3- Trending/Popular Apps – modded versions of the most popular and trending apps \n 4- User-Friendly – User-friendly app, easy to navigate \n 5- Parameters  see all the added features for each app and game"
+   },
+   {
+      "Name":"Download HappyMod on Android",
+      "ImageURL":"https://www.androidetvous.com/wp-content/uploads/2021/08/HappyMod-APK.jpg",
+   },
+   {
+      "Name":"How Does HappyMod Works",
+      "ImageURL":"https://apkfolks.com/wp-content/uploads/2019/09/happymod-apk-download-official.png",
+   },
+   {
+      "Name":"How to Update HappyMod App",
+      "ImageURL":"https://noticiasetecnologia.com/wp-content/uploads/2021/02/HappyMod.jpg",
+   },
+   
+   {
+      "Name":"HappyMod Features",
+      "ImageURL":"https://i1.wp.com/www.androidfreeapks.com/wp-content/uploads/2020/01/HappyMod-APK-Download-Latest-Version.jpg",
    }
 ]
