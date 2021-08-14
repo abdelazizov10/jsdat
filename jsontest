@@ -1,6 +1,6 @@
 [
    {
-                   "appname":"princess";
+                   "appname":"princess",
                    "adMobAppID":"ca-app-pub-2056631108745418~4383838962",
                    "banner":"ca-app-pub-2056631108745418/6202626595",
                    "inter":"ca-app-pub-2056631108745418/5971225132",
@@ -11,7 +11,7 @@
                    "IronInter":"DefaultInterstitial"
                    },
                    {
-                   "appname":"fnf";
+                   "appname":"fnf",
                    "adMobAppID":"ca-app-pub-2056631108745418~6743554205",
                    "banner":"ca-app-pub-2056631108745418/9178145852",
                    "inter":"ca-app-pub-2056631108745418/5079118746",
@@ -22,7 +22,7 @@
                    "IronInter":"DefaultInterstitial"
                    },
                     {
-                    "appname":"peegy";
+                    "appname":"peegy",
                    "adMobAppID":"ca-app-pub-2056631108745418~9127234450",
                    "banner":"ca-app-pub-2056631108745418/1901488736",
                    "inter":"ca-app-pub-2056631108745418/3874907772",
@@ -34,7 +34,7 @@
                    },
                    
                    {
-                   "appname":"sasage man";
+                   "appname":"sasage man",
                    "adMobAppID":"ca-app-pub-2056631108745418~2917512344",
                    "banner":"ca-app-pub-2056631108745418/2675159131",
                    "inter":"ca-app-pub-2056631108745418/3936269911",
@@ -45,7 +45,7 @@
                    "IronInter":"DefaultInterstitial"
                    },
                    {
-                   "appname":"joke";
+                   "appname":"joke",
                    "adMobAppID":"ca-app-pub-2056631108745418~6384078088",
                    "banner":"ca-app-pub-2056631108745418/7925773356",
                    "inter":"ca-app-pub-2056631108745418/5706448900",
@@ -57,7 +57,7 @@
                    },
                    
                    {
-                   "appname":"mhop";
+                   "appname":"mhop",
                    "adMobAppID":"ca-app-pub-2056631108745418~5519866201",
                    "banner":"ca-app-pub-2056631108745418/5475085435",
                    "inter":"ca-app-pub-2056631108745418/6346341641",
