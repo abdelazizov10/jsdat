@@ -44,7 +44,7 @@
                    "IronBanner":"DefaultBanner",
                    "IronInter":"DefaultInterstitial"
                    },
-                        {
+                   {
                    "appname":"empty",
                    "adMobAppID":"ca-app-pub-20566313333108745418~6382234078088",
                    "banner":"ca-app-pub-2056332631108745418/32222",
