@@ -44,6 +44,17 @@
                    "IronBanner":"DefaultBanner",
                    "IronInter":"DefaultInterstitial"
                    },
+                        {
+                   "appname":"empty",
+                   "adMobAppID":"ca-app-pub-20566313333108745418~6382234078088",
+                   "banner":"ca-app-pub-2056332631108745418/32222",
+                   "inter":"ca-app-pub-20566313232108745418/57064483232900",
+                   "Fanbanner":"36080523693143232761_42576432320724355919",
+                   "Faninter":"36080523693323214761_36116543232962287835",
+                   "Ironsource":"10976c332a05", 
+                   "IronBanner":"DefaultBanner",
+                   "IronInter":"DefaultInterstitial"
+                   },
                    {
                    "appname":"joke",
                    "adMobAppID":"ca-app-pub-2056631108745418~6384078088",
@@ -63,7 +74,7 @@
                    "inter":"ca-app-pub-2056631108745418/6346341641",
                    "Fanbanner":"1212692195877123_1212693632543646",
                    "Faninter":"1212692195877123_1212694332543576",
-                   "Ironsource":"10976ca05", 
+                   "Ironsource":"109df4a0d", 
                    "IronBanner":"DefaultBanner",
                    "IronInter":"DefaultInterstitial"
                    }
