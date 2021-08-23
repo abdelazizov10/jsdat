@@ -1,11 +1,11 @@
 [
      {
-      "adMobAppID":"ca-app-pub-3940256099942544~3347511713",
-      "banner":"ca-app-pub-3940256099942544/6300978111",
-      "inter":"ca-app-pub-3940256099942544/1033173712",
+      "adMobAppID":"ca-app-pub-2056631108745418~6149226050",
+      "banner":"ca-app-pub-2056631108745418/2465131912",
+      "inter":"ca-app-pub-2056631108745418/3722373261",
       "Fanbanner":"594629205240377_594629438573687",
       "Faninter":"594629205240377_594629765240321",
-      "Ironsource":"104c21dc1", 
+      "Ironsource":"10b8cc045", 
       "IronBanner":"DefaultBanner",
       "IronInter":"DefaultInterstitial"
    },
