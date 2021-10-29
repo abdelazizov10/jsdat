@@ -1,5 +1,19 @@
 [
    {
+       "Name":"Call from scary doll",
+       "game":"",
+       "Description":"",
+       "IconUrl":"https://play-lh.googleusercontent.com/MiKTPWFJ7gL5lUMRnygEfBXDfXITv3x91s_5VryWxIb4yeVTJUQVqY3FXpbpXTaDhaY=s360",
+       "GameUrl":"https://play.google.com/store/apps/details?id=com.creepy_doll.scary_haunted_doll"
+       },
+   {
+       "Name":"killer clown call ",
+       "game":"",
+       "Description":"",
+       "IconUrl":"https://play-lh.googleusercontent.com/UxTTNTJ3YOFuLXHbjRU10GXN2LnnKEkSUxm-ZHrDsPkjDq9THmdTrn3rtfbTA15hFLY=s360",
+       "GameUrl":"https://play.google.com/store/apps/details?id=com.killer_clown.scary_serial_killer"
+       },
+   {
        "Name":"Fake call for FNF Whitty 2022",
        "game":"",
        "Description":"",
