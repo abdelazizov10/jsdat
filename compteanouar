@@ -1,62 +1,17 @@
 [
-   {
-       "Name":"Poppy playtime 2",
+{
+       "Name":"Happy Game",
        "game":"",
        "Description":"",
-       "IconUrl":"https://play-lh.googleusercontent.com/JaRBlieBrhgO7SCHNUiQxi-bRizYAMUyL1jHst4-fFNqpGkbmVRUa-b-eQhZWcuJEA=s360",
-       "GameUrl":"https://play.google.com/store/apps/details?id=com.hoggy_woggy.poopy_horror_time"
+       "IconUrl":"https://play-lh.googleusercontent.com/TjRr4nTrPiTUUtdqBv8inekP_b7BvXUUxGCH3Mmy4MjETiVFZB1W5mJ06pyarmj_MvQ=s180-rw",
+       "GameUrl":"https://play.google.com/store/apps/details?id=com.happy_game.happy_walkthrough"
        },
    {
-       "Name":"Friday the 13th Call",
+       "Name":"Poppy playtime ",
        "game":"",
        "Description":"",
-       "IconUrl":"https://play-lh.googleusercontent.com/B6WSYyk1dKam6xduieqLLArdNlUX4rtwtITxob8oSzEVccaHGshtat7Njxkp0vCzDA=s360",
-       "GameUrl":"https://play.google.com/store/apps/details?id=com.jason_call.friday_night_call"
-       },
-   {
-       "Name":"Call from scary doll",
-       "game":"",
-       "Description":"",
-       "IconUrl":"https://play-lh.googleusercontent.com/MiKTPWFJ7gL5lUMRnygEfBXDfXITv3x91s_5VryWxIb4yeVTJUQVqY3FXpbpXTaDhaY=s360",
-       "GameUrl":"https://play.google.com/store/apps/details?id=com.creepy_doll.scary_haunted_doll"
-       },
-   {
-       "Name":"killer clown call ",
-       "game":"",
-       "Description":"",
-       "IconUrl":"https://play-lh.googleusercontent.com/UxTTNTJ3YOFuLXHbjRU10GXN2LnnKEkSUxm-ZHrDsPkjDq9THmdTrn3rtfbTA15hFLY=s360",
-       "GameUrl":"https://play.google.com/store/apps/details?id=com.killer_clown.scary_serial_killer"
-       },
-   {
-       "Name":"Fake call for FNF Whitty 2022",
-       "game":"",
-       "Description":"",
-       "IconUrl":"https://play-lh.googleusercontent.com/TM3F1t_jRWwV1Mcah6UnxPGrgHOPLghzFg5D1ffxKrlL6DXyKuQH5CEkjymmZkVvDgAK=s360",
-       "GameUrl":"https://play.google.com/store/apps/details?id=com.fnf.whitty_fnf_dance"
-       },
-               
-        {
-       "Name":"Joker call",
-       "game":"",
-       "Description":"",
-       "IconUrl":"https://play-lh.googleusercontent.com/5_0HqlaWMN2SXINxTZYOa4Qzas8tGK1gdzWB7ECNsKSpZ0klx-1_Vq4bOlliPk0bDI2v=s360",
-       "GameUrl":"https://play.google.com/store/apps/details?id=com.joker_harley.queen_fake_call"
-       
-       },
-       
-       {
-       "Name":"Fake Call From Piggy",
-       "game":"",
-       "Description":"",
-       "IconUrl":"https://play-lh.googleusercontent.com/DKIq_GXyKUREbWWDEcatQUAyRz2AjCXz8yhdx8csvJ7IsTdh4SFvGxfmUOiwQCzlDiIL=s360",
-       "GameUrl":"https://play.google.com/store/apps/details?id=com.roblox.scary_piggy"
-       },
-         {
-       "Name":"Mr hopp's Video Call",
-       "game":"",
-       "Description":"",
-       "IconUrl":"https://play-lh.googleusercontent.com/C0JJ7CLjLthBmWQozvF6pe3CB3iROx4isxlPwPzff1j4o9rQua-Fc5gCmLkEBKJLOBY=s360",
-       "GameUrl":"https://play.google.com/store/apps/details?id=com.mr_hopps.scary_hopps"
+       "IconUrl":"https://play-lh.googleusercontent.com/Pw58_dL8ADTZWLPqisGWTbXkTrOkQw1eI7GnzOLDTVasg6BIOYG339Rr2ccFbSrZM80z=s360",
+       "GameUrl":"https://play.google.com/store/apps/details?id=com.poppyplay.huggy_wuggy"
        }
    
 ]
