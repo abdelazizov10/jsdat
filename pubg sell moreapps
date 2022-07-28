@@ -1,17 +1,17 @@
 [
 {
-       "Name":"Happy Game",
+       "Name":"Poppy Playtime",
        "game":"",
        "Description":"",
-       "IconUrl":"https://play-lh.googleusercontent.com/TjRr4nTrPiTUUtdqBv8inekP_b7BvXUUxGCH3Mmy4MjETiVFZB1W5mJ06pyarmj_MvQ=s180-rw",
-       "GameUrl":"https://play.google.com/store/apps/details?id=com.happy_game.happy_walkthrough"
+       "IconUrl":"https://play-lh.googleusercontent.com/LmZuGeTmqAA3BTvSHvS7HSFOUfpajbknRhELZmoCHllZ27QZlhyPjD9urOrZwZAFM-A=s512",
+       "GameUrl":"https://play.google.com/store/apps/details?id=com.MOBGames.PoppyMobileChap1"
        },
    {
-       "Name":"Poppy playtime ",
+       "Name":"Candy Crush Saga",
        "game":"",
        "Description":"",
-       "IconUrl":"https://play-lh.googleusercontent.com/Pw58_dL8ADTZWLPqisGWTbXkTrOkQw1eI7GnzOLDTVasg6BIOYG339Rr2ccFbSrZM80z=s360",
-       "GameUrl":"https://play.google.com/store/apps/details?id=com.poppyplay.huggy_wuggy"
+       "IconUrl":"https://play-lh.googleusercontent.com/gU9NKwpgLDYA6LIYK4dnkAkVyqNHUfTIqklEiNuO4oZ2OCpWQhQdqhnDh8Yb9B8SWIM=s512",
+       "GameUrl":"https://play.google.com/store/apps/details?id=com.king.candycrushsaga"
        }
    
 ]
