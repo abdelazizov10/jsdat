@@ -1,17 +1,10 @@
 [
 {
-       "Name":"Poppy Playtime",
+       "Name":"rainbow friends game",
        "game":"",
        "Description":"",
-       "IconUrl":"https://play-lh.googleusercontent.com/LmZuGeTmqAA3BTvSHvS7HSFOUfpajbknRhELZmoCHllZ27QZlhyPjD9urOrZwZAFM-A=s512",
-       "GameUrl":"https://play.google.com/store/apps/details?id=com.MOBGames.PoppyMobileChap1"
-       },
-   {
-       "Name":"Candy Crush Saga",
-       "game":"",
-       "Description":"",
-       "IconUrl":"https://play-lh.googleusercontent.com/gU9NKwpgLDYA6LIYK4dnkAkVyqNHUfTIqklEiNuO4oZ2OCpWQhQdqhnDh8Yb9B8SWIM=s512",
-       "GameUrl":"https://play.google.com/store/apps/details?id=com.king.candycrushsaga"
+       "IconUrl":"https://play-lh.googleusercontent.com/yfI4TlZ8GkJZlGS8lCmm3sncE1WlE8AL9O1nYD5hHWjVAWeZoRQGIt3ezzToCbLQuOw=s512-rw",
+       "GameUrl":"https://play.google.com/store/apps/details?id=com.rainbow_fr.rainbowfriends"
        }
    
 ]
